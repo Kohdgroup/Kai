@@ -17,3 +17,4 @@ Files:
 - [Headshot cost analysis](headshot_cost_analysis.md)
 - [Image generation workflow](image_generation_workflow.md)
 - [Autonomous image pipeline and WebDAV sink](image_pipeline_webdav.md)
+- [Image node options](image_node_options.md)
