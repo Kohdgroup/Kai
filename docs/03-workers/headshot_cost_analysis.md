@@ -27,3 +27,6 @@ The biggest cost driver is not the pixels; it is iteration, curation, and mainta
 - Pick one final image per person.
 - Store the final outputs in WebDAV / shared storage.
 - Keep the style prompt and selection rules versioned in docs.
+
+## Cost-first recommendation
+If latency is not an issue, use the dedicated Windows GPU node and keep cloud usage only for overflow or temporary capacity. This usually gives the best long-run economics.

@@ -2,8 +2,8 @@
 
 ## Source of truth
 - Linear image generation workstream
-- ComfyUI as the primary engine
-- FAL/Hermes as fast-path fallback
+- ComfyUI on the local Windows node as the primary engine when the priority is low cost
+- Hermes built-in FAL as fast-path / overflow fallback
 
 ## Storage layout
 - `webdav://kohd-assets/headshots/drafts/`

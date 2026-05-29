@@ -28,7 +28,7 @@ Example:
   "version": "v1",
   "source_issue": "KS-2818",
   "engine": "ComfyUI",
-  "runtime": "Comfy Cloud",
+  "runtime": "Windows PC local ComfyUI",
   "node": "windows-pc-01",
   "prompt": "...",
   "model": "<model-id>",

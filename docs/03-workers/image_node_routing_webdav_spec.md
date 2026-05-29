@@ -4,7 +4,7 @@ This page defines the recommended KOHD image-production setup for both a primary
 
 ## 1) Windows PC recommendation
 
-Primary role: dedicated production render node.
+Primary role: dedicated production render node for lowest ongoing cost.
 
 Recommended spec:
 - CPU: modern 8+ core Intel or AMD CPU
@@ -15,7 +15,9 @@ Recommended spec:
 - OS: Windows 11 Pro
 - Network: wired gigabit or better
 
-Why this is the best primary node:
+Why this is the best primary node when time is not the constraint:
+- the cheapest long-run path for high-volume generation
+- avoids per-image cloud spend
 - best ComfyUI compatibility
 - best batch throughput
 - best realism and stability for headshots and campaign assets
@@ -56,7 +58,7 @@ Hermes should own routing. Humans should not be in the loop for ordinary jobs.
 
 Routing rules:
 1. Classify the asset request.
-2. Choose the primary node.
+2. Choose the lowest-cost node that can satisfy the job.
 3. Send the job automatically.
 4. Monitor generation.
 5. Run QA checks.
@@ -77,6 +79,10 @@ Fallback logic:
 Autonomy rule:
 - routine jobs should run end-to-end without manual file handling
 - humans only intervene on policy exceptions, repeated failure, or high-risk content
+
+Cost rule:
+- prefer local generation over cloud generation whenever latency is acceptable
+- use cloud only for overflow, emergency, or temporary availability issues
 
 ## 4) WebDAV naming and approval rules
 
