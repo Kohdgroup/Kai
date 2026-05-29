@@ -1,0 +1,36 @@
+{
+  "views": [
+    {
+      "name": "CD Delivery Board",
+      "code": 1,
+      "stdout": "",
+      "stderr": "HTTP 400: {\"errors\":[{\"message\":\"Variable \\\"$input\\\" got invalid value { neq: \\\"completed\\\" } at \\\"input.filterData.project.status\\\"; Field \\\"neq\\\" is not defined by type \\\"ProjectStatusFilter\\\".\",\"locations\":[{\"line\":1,\"column\":10}],\"extensions\":{\"code\":\"BAD_USER_INPUT\",\"type\":\"graphql error\",\"userError\":true}}]}"
+    },
+    {
+      "name": "CD Milestones",
+      "code": 0,
+      "stdout": "{\n  \"customViewCreate\": {\n    \"success\": true,\n    \"customView\": {\n      \"id\": \"7656e9f2-4fcf-43a7-9aa5-34313095f514\",\n      \"name\": \"CD Milestones\"\n    }\n  }\n}",
+      "stderr": ""
+    },
+    {
+      "name": "CD Blockers & Risks",
+      "code": 0,
+      "stdout": "{\n  \"customViewCreate\": {\n    \"success\": true,\n    \"customView\": {\n      \"id\": \"996809a4-cbc3-4851-a037-4a367d8dade2\",\n      \"name\": \"CD Blockers & Risks\"\n    }\n  }\n}",
+      "stderr": ""
+    }
+  ],
+  "initiatives": [
+    {
+      "name": "CD Delivery Governance",
+      "code": 1,
+      "stdout": "",
+      "stderr": "HTTP 400: {\"errors\":[{\"message\":\"Variable \\\"$input\\\" got invalid value { name: \\\"CD Delivery Governance\\\", description: \\\"Delivery operating model, sprint control, and worker coordination for client delivery.\\\", content: \\\"KOHD delivery governance across live delivery work.\\\", teamIds: [\\\"6365237c-94a2-4c7f-8a21-3a9ef1379cd4\\\"] }; Field \\\"teamIds\\\" is not defined by type \\\"InitiativeCreateInput\\\".\",\"locations\":[{\"line\":1,\"column\":10}],\"extensions\":{\"code\":\"BAD_USER_INPUT\",\"type\":\"graphql error\",\"userError\":true}}]}"
+    },
+    {
+      "name": "CD Client Sprint Execution",
+      "code": 1,
+      "stdout": "",
+      "stderr": "HTTP 400: {\"errors\":[{\"message\":\"Variable \\\"$input\\\" got invalid value { name: \\\"CD Client Sprint Execution\\\", description: \\\"Milestone-based delivery execution across Aardvark and EcoPUK.\\\", content: \\\"Sprint execution standardization for current and next sprints.\\\", teamIds: [\\\"6365237c-94a2-4c7f-8a21-3a9ef1379cd4\\\"] }; Field \\\"teamIds\\\" is not defined by type \\\"InitiativeCreateInput\\\".\",\"locations\":[{\"line\":1,\"column\":10}],\"extensions\":{\"code\":\"BAD_USER_INPUT\",\"type\":\"graphql error\",\"userError\":true}}]}"
+    }
+  ]
+}

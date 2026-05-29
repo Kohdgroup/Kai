@@ -1,0 +1,494 @@
+{
+  "board": [
+    {
+      "id": "board-neil-riley",
+      "name": "Neil Riley",
+      "role": "advisory",
+      "skills": [
+        "cxo-cso-strategy",
+        "cxo-cpo-product",
+        "cxo-cxo-customer-experience"
+      ],
+      "title": "Founder / Chair"
+    },
+    {
+      "id": "board-eleanor-briggs",
+      "name": "Eleanor Briggs",
+      "role": "advisory",
+      "skills": [
+        "cxo-ceo"
+      ],
+      "title": "Founder CEO Advisor"
+    },
+    {
+      "id": "board-nikhil-shah",
+      "name": "Nikhil Shah",
+      "role": "advisory",
+      "skills": [
+        "cxo-cto",
+        "cxo-cio",
+        "cxo-ciso"
+      ],
+      "title": "Founder CIO/CTO Advisor"
+    },
+    {
+      "id": "board-marcus-bennett",
+      "name": "Marcus Bennett",
+      "role": "advisory",
+      "skills": [
+        "cxo-coo"
+      ],
+      "title": "Founder COO Advisor"
+    },
+    {
+      "id": "board-priya-kapoor",
+      "name": "Priya Kapoor",
+      "role": "advisory",
+      "skills": [
+        "cxo-cro",
+        "cxo-cco-commercial",
+        "cxo-cmo"
+      ],
+      "title": "Commercial / Revenue Advisor"
+    },
+    {
+      "id": "board-hannah-clarke",
+      "name": "Hannah Clarke",
+      "role": "advisory",
+      "skills": [
+        "cxo-chro"
+      ],
+      "title": "People Advisor"
+    },
+    {
+      "id": "board-samuel-price",
+      "name": "Samuel Price",
+      "role": "advisory",
+      "skills": [
+        "cxo-cfo"
+      ],
+      "title": "Finance Advisor"
+    }
+  ],
+  "board_count": 7,
+  "clusters": [
+    {
+      "assigned_worker": "backend-engineer",
+      "skill_count": 2,
+      "skills": [
+        "backend-api-services-engineer",
+        "backend-database-engineer"
+      ]
+    },
+    {
+      "assigned_worker": "customer-support-lead",
+      "skill_count": 3,
+      "skills": [
+        "sales-customer-success",
+        "sales-digital-transformation-consultant",
+        "sales-sdr-bdr"
+      ]
+    },
+    {
+      "assigned_worker": "design-lead",
+      "skill_count": 4,
+      "skills": [
+        "design-interaction-designer",
+        "design-solution-architect",
+        "design-technical-writer",
+        "design-ux-expert"
+      ]
+    },
+    {
+      "assigned_worker": "devops-platform-engineer",
+      "skill_count": 3,
+      "skills": [
+        "devops-deployment-engineer",
+        "devops-infrastructure-engineer",
+        "devops-monitoring-engineer"
+      ]
+    },
+    {
+      "assigned_worker": "frontend-engineer",
+      "skill_count": 3,
+      "skills": [
+        "frontend-component-engineer",
+        "frontend-mobile-engineer",
+        "frontend-react-ui-engineer"
+      ]
+    },
+    {
+      "assigned_worker": "integration-engineer",
+      "skill_count": 1,
+      "skills": [
+        "backend-integration-engineer"
+      ]
+    },
+    {
+      "assigned_worker": "marketing-lead",
+      "skill_count": 5,
+      "skills": [
+        "marketing-ai-gtm-strategist",
+        "marketing-brand-strategist",
+        "marketing-demand-generation",
+        "marketing-growth-architect",
+        "marketing-performance-marketer"
+      ]
+    },
+    {
+      "assigned_worker": "partnerships-sponsorship-manager",
+      "skill_count": 4,
+      "skills": [
+        "sales-enterprise-sales-director",
+        "sales-partnerships",
+        "sales-sponsorship-commercial-strategy",
+        "sales-sports-club-commercial-director"
+      ]
+    },
+    {
+      "assigned_worker": "people-ops-coordinator",
+      "skill_count": 2,
+      "skills": [
+        "hub-office-manager-coordinator",
+        "hub-office-workshop-liaison"
+      ]
+    },
+    {
+      "assigned_worker": "product-owner",
+      "skill_count": 6,
+      "skills": [
+        "ba-acceptance-criteria-validator",
+        "ba-requirements-engineer",
+        "delivery-documentation-specialist",
+        "delivery-solution-validator",
+        "delivery-training-knowledge-manager",
+        "lead-product-owner"
+      ]
+    },
+    {
+      "assigned_worker": "qa-lead",
+      "skill_count": 4,
+      "skills": [
+        "qa-integration-test-engineer",
+        "qa-performance-test-engineer",
+        "qa-security-test-engineer",
+        "qa-test-automation-engineer"
+      ]
+    },
+    {
+      "assigned_worker": "revenue-operations-manager",
+      "skill_count": 1,
+      "skills": [
+        "sales-revenue-operations"
+      ]
+    },
+    {
+      "assigned_worker": "root-cause-analyst",
+      "skill_count": 3,
+      "skills": [
+        "failure-development-fixer",
+        "failure-root-cause-analyst",
+        "failure-test-case-enhancer"
+      ]
+    },
+    {
+      "assigned_worker": "scrum-master",
+      "description": "Linear autonomous Scrum Master owning project visibility, next sprint awareness, and real-time execution control.",
+      "linear_autonomy": true,
+      "skill_count": 8,
+      "skills": [
+        "ba-stakeholder-liaison",
+        "hub-cross-hub-dependency-manager",
+        "hub-production-lead",
+        "hub-quality-delivery-lead",
+        "hub-workshop-manager",
+        "lead-control-layer-lead",
+        "lead-rai-control-orchestrator",
+        "lead-technical-architect"
+      ]
+    },
+    {
+      "assigned_worker": "social-media-community-manager",
+      "skill_count": 1,
+      "skills": [
+        "marketing-community-membership-growth"
+      ]
+    },
+    {
+      "assigned_worker": "ai-capability-automation-lead",
+      "skill_count": 10,
+      "skills": [
+        "model-routing",
+        "model-evaluation",
+        "multimodal-routing",
+        "prompt-automation",
+        "ai-cost-optimisation",
+        "workflow-automation",
+        "benchmark-design",
+        "provider-catalog-monitoring",
+        "capability-discovery",
+        "automation-ops"
+      ]
+    }
+  ],
+  "generated_at": "2026-05-29T12:39:58.008239+00:00",
+  "metadata": {
+    "ai_automation_owner": "ai-capability-automation-lead",
+    "background_mode": true,
+    "cadence": "weekly update",
+    "scrum_master_policy": "Linear autonomous, current sprint only, project-first"
+  },
+  "skill_count": 63,
+  "worker_count": 17,
+  "workers": [
+    {
+      "hourly_rate_gbp": 74.52,
+      "hourly_rate_usd": 93.75,
+      "id": "backend-engineer",
+      "level": "senior",
+      "name": "Olivia Chen",
+      "role": "engineering",
+      "skills": [
+        "backend-api-services-engineer",
+        "backend-database-engineer"
+      ],
+      "title": "Backend Engineer"
+    },
+    {
+      "hourly_rate_gbp": 45.67,
+      "hourly_rate_usd": 57.69,
+      "id": "customer-support-lead",
+      "level": "mid",
+      "name": "Noah Hughes",
+      "role": "support",
+      "skills": [
+        "sales-customer-success",
+        "sales-digital-transformation-consultant",
+        "sales-sdr-bdr"
+      ],
+      "title": "Customer Support Lead"
+    },
+    {
+      "hourly_rate_gbp": 67.31,
+      "hourly_rate_usd": 86.54,
+      "id": "design-lead",
+      "level": "senior",
+      "name": "Maya Thompson",
+      "role": "design",
+      "skills": [
+        "design-solution-architect",
+        "design-ux-expert",
+        "design-interaction-designer",
+        "design-technical-writer"
+      ],
+      "title": "Design Lead"
+    },
+    {
+      "hourly_rate_gbp": 58.87,
+      "hourly_rate_usd": 74.52,
+      "id": "devops-kubernetes-specialist",
+      "level": "mid",
+      "name": "Alex Smith",
+      "role": "devops",
+      "skills": [
+        "devops-kubernetes-automation"
+      ],
+      "title": "DevOps Kubernetes Specialist"
+    },
+    {
+      "hourly_rate_gbp": 72.12,
+      "hourly_rate_usd": 91.35,
+      "id": "devops-platform-engineer",
+      "level": "senior",
+      "name": "Sophie Grant",
+      "role": "devops",
+      "skills": [
+        "devops-infrastructure-engineer",
+        "devops-deployment-engineer",
+        "devops-monitoring-engineer"
+      ],
+      "title": "DevOps Platform Engineer"
+    },
+    {
+      "hourly_rate_gbp": 72.12,
+      "hourly_rate_usd": 91.35,
+      "id": "frontend-engineer",
+      "level": "senior",
+      "name": "Ethan Brooks",
+      "role": "engineering",
+      "skills": [
+        "frontend-react-ui-engineer",
+        "frontend-component-engineer",
+        "frontend-mobile-engineer"
+      ],
+      "title": "Frontend Engineer"
+    },
+    {
+      "hourly_rate_gbp": 60.1,
+      "hourly_rate_usd": 76.92,
+      "id": "integration-engineer",
+      "level": "mid",
+      "name": "Ruby Patel",
+      "role": "engineering",
+      "skills": [
+        "backend-integration-engineer"
+      ],
+      "title": "Integration Engineer"
+    },
+    {
+      "hourly_rate_gbp": 64.9,
+      "hourly_rate_usd": 84.13,
+      "id": "marketing-lead",
+      "level": "senior",
+      "name": "Priya Kapoor",
+      "role": "marketing",
+      "skills": [
+        "marketing-demand-generation",
+        "marketing-performance-marketer",
+        "marketing-brand-strategist",
+        "marketing-growth-architect",
+        "marketing-ai-gtm-strategist"
+      ],
+      "title": "Marketing Lead"
+    },
+    {
+      "hourly_rate_gbp": 55.29,
+      "hourly_rate_usd": 69.71,
+      "id": "partnerships-sponsorship-manager",
+      "level": "mid",
+      "name": "Robert Singh",
+      "role": "commercial",
+      "skills": [
+        "sales-enterprise-sales-director",
+        "sales-partnerships",
+        "sales-sponsorship-commercial-strategy",
+        "sales-sports-club-commercial-director"
+      ],
+      "title": "Partnerships & Sponsorship Manager"
+    },
+    {
+      "hourly_rate_gbp": 48.08,
+      "hourly_rate_usd": 62.5,
+      "id": "people-ops-coordinator",
+      "level": "mid",
+      "name": "Hannah Clarke",
+      "role": "operations",
+      "skills": [
+        "ba-stakeholder-liaison",
+        "hub-office-manager-coordinator",
+        "hub-office-workshop-liaison"
+      ],
+      "title": "People Ops Coordinator"
+    },
+    {
+      "hourly_rate_gbp": 72.12,
+      "hourly_rate_usd": 91.35,
+      "id": "product-owner",
+      "level": "senior",
+      "name": "Daniel Foster",
+      "role": "product",
+      "skills": [
+        "lead-product-owner",
+        "ba-requirements-engineer",
+        "ba-acceptance-criteria-validator",
+        "delivery-solution-validator",
+        "delivery-documentation-specialist",
+        "delivery-training-knowledge-manager"
+      ],
+      "title": "Product Owner"
+    },
+    {
+      "hourly_rate_gbp": 57.69,
+      "hourly_rate_usd": 72.12,
+      "id": "qa-lead",
+      "level": "mid",
+      "name": "James Hall",
+      "role": "qa",
+      "skills": [
+        "qa-test-automation-engineer",
+        "qa-integration-test-engineer",
+        "qa-security-test-engineer",
+        "qa-performance-test-engineer"
+      ],
+      "title": "QA Lead"
+    },
+    {
+      "hourly_rate_gbp": 52.88,
+      "hourly_rate_usd": 67.31,
+      "id": "revenue-operations-manager",
+      "level": "mid",
+      "name": "Clara Evans",
+      "role": "commercial",
+      "skills": [
+        "sales-revenue-operations"
+      ],
+      "title": "Revenue Operations Manager"
+    },
+    {
+      "hourly_rate_gbp": 62.5,
+      "hourly_rate_usd": 79.33,
+      "id": "root-cause-analyst",
+      "level": "senior",
+      "name": "Grace Morgan",
+      "role": "failure",
+      "skills": [
+        "failure-root-cause-analyst",
+        "failure-development-fixer",
+        "failure-test-case-enhancer"
+      ],
+      "title": "Root Cause Analyst"
+    },
+    {
+      "hourly_rate_gbp": 62.5,
+      "hourly_rate_usd": 79.33,
+      "id": "scrum-master",
+      "level": "senior",
+      "name": "Laura Bennett",
+      "role": "delivery",
+      "skills": [
+        "lead-control-layer-lead",
+        "lead-rai-control-orchestrator",
+        "hub-cross-hub-dependency-manager",
+        "hub-production-lead",
+        "hub-quality-delivery-lead",
+        "hub-workshop-manager",
+        "ba-stakeholder-liaison",
+        "lead-technical-architect"
+      ],
+      "title": "Scrum Master"
+    },
+    {
+      "hourly_rate_gbp": 43.27,
+      "hourly_rate_usd": 55.29,
+      "id": "social-media-community-manager",
+      "level": "mid",
+      "name": "Mia Carter",
+      "role": "marketing",
+      "skills": [
+        "marketing-community-membership-growth"
+      ],
+      "title": "Social Media & Community Manager"
+    },
+    {
+      "hourly_rate_gbp": 62.5,
+      "hourly_rate_usd": 79.33,
+      "id": "ai-capability-automation-lead",
+      "level": "senior",
+      "name": "Zoe Parker",
+      "role": "ai-automation",
+      "skills": [
+        "model-routing",
+        "model-evaluation",
+        "multimodal-routing",
+        "prompt-automation",
+        "ai-cost-optimisation",
+        "workflow-automation",
+        "benchmark-design",
+        "provider-catalog-monitoring",
+        "capability-discovery",
+        "automation-ops"
+      ],
+      "title": "AI Capability & Automation Lead"
+    }
+  ]
+}

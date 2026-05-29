@@ -1,0 +1,111 @@
+{
+  "invites": [
+    {
+      "email": "zoe.parker@kohd.io",
+      "code": 0,
+      "stdout": "{\n  \"organizationInviteCreate\": {\n    \"success\": true,\n    \"organizationInvite\": {\n      \"id\": \"24732f00-738d-4823-91ef-acce8fa3ae28\",\n      \"email\": \"zoe.parker@kohd.io\",\n      \"role\": \"guest\"\n    }\n  }\n}",
+      "stderr": ""
+    },
+    {
+      "email": "olivia.chen@kohd.io",
+      "code": 0,
+      "stdout": "{\n  \"organizationInviteCreate\": {\n    \"success\": true,\n    \"organizationInvite\": {\n      \"id\": \"98f37c2b-e91c-4267-8227-0ab86d1362b0\",\n      \"email\": \"olivia.chen@kohd.io\",\n      \"role\": \"guest\"\n    }\n  }\n}",
+      "stderr": ""
+    },
+    {
+      "email": "noah.hughes@kohd.io",
+      "code": 1,
+      "stdout": "",
+      "stderr": "GraphQL errors: [\n  {\n    \"message\": \"The operation was aborted due to timeout\",\n    \"path\": [\n      \"organizationInviteCreate\"\n    ],\n    \"locations\": [\n      {\n        \"line\": 1,\n        \"column\": 52\n      }\n    ],\n    \"extensions\": {\n      \"type\": \"internal error\",\n      \"userError\": false\n    }\n  }\n]"
+    },
+    {
+      "email": "maya.thompson@kohd.io",
+      "code": 0,
+      "stdout": "{\n  \"organizationInviteCreate\": {\n    \"success\": true,\n    \"organizationInvite\": {\n      \"id\": \"881f763f-e6ee-4027-89ff-b96ccfbc2483\",\n      \"email\": \"maya.thompson@kohd.io\",\n      \"role\": \"guest\"\n    }\n  }\n}",
+      "stderr": ""
+    },
+    {
+      "email": "alex.smith@kohd.io",
+      "code": 0,
+      "stdout": "{\n  \"organizationInviteCreate\": {\n    \"success\": true,\n    \"organizationInvite\": {\n      \"id\": \"ee870416-cc8a-433b-aaa1-25aac4b5d64e\",\n      \"email\": \"alex.smith@kohd.io\",\n      \"role\": \"guest\"\n    }\n  }\n}",
+      "stderr": ""
+    },
+    {
+      "email": "sophie.grant@kohd.io",
+      "code": 0,
+      "stdout": "{\n  \"organizationInviteCreate\": {\n    \"success\": true,\n    \"organizationInvite\": {\n      \"id\": \"a5709224-ce9c-4564-914a-56f2e6e2fd38\",\n      \"email\": \"sophie.grant@kohd.io\",\n      \"role\": \"guest\"\n    }\n  }\n}",
+      "stderr": ""
+    },
+    {
+      "email": "ethan.brooks@kohd.io",
+      "code": 0,
+      "stdout": "{\n  \"organizationInviteCreate\": {\n    \"success\": true,\n    \"organizationInvite\": {\n      \"id\": \"836f7c4b-5aa2-4241-af76-ce3138cf9d2e\",\n      \"email\": \"ethan.brooks@kohd.io\",\n      \"role\": \"guest\"\n    }\n  }\n}",
+      "stderr": ""
+    },
+    {
+      "email": "ruby.patel@kohd.io",
+      "code": 0,
+      "stdout": "{\n  \"organizationInviteCreate\": {\n    \"success\": true,\n    \"organizationInvite\": {\n      \"id\": \"8419914b-8c84-4f13-83f8-17c931402347\",\n      \"email\": \"ruby.patel@kohd.io\",\n      \"role\": \"guest\"\n    }\n  }\n}",
+      "stderr": ""
+    },
+    {
+      "email": "priya.kapoor@kohd.io",
+      "code": 0,
+      "stdout": "{\n  \"organizationInviteCreate\": {\n    \"success\": true,\n    \"organizationInvite\": {\n      \"id\": \"cb0cdffd-4cc4-40ce-ac7b-33b9171e0d12\",\n      \"email\": \"priya.kapoor@kohd.io\",\n      \"role\": \"guest\"\n    }\n  }\n}",
+      "stderr": ""
+    },
+    {
+      "email": "robert.singh@kohd.io",
+      "code": 0,
+      "stdout": "{\n  \"organizationInviteCreate\": {\n    \"success\": true,\n    \"organizationInvite\": {\n      \"id\": \"f2a626eb-bf78-4615-a5b0-b9c02a4b694b\",\n      \"email\": \"robert.singh@kohd.io\",\n      \"role\": \"guest\"\n    }\n  }\n}",
+      "stderr": ""
+    },
+    {
+      "email": "hannah.clarke@kohd.io",
+      "code": 0,
+      "stdout": "{\n  \"organizationInviteCreate\": {\n    \"success\": true,\n    \"organizationInvite\": {\n      \"id\": \"14eec569-a943-45b8-843f-3eef7275541c\",\n      \"email\": \"hannah.clarke@kohd.io\",\n      \"role\": \"guest\"\n    }\n  }\n}",
+      "stderr": ""
+    },
+    {
+      "email": "daniel.foster@kohd.io",
+      "code": 0,
+      "stdout": "{\n  \"organizationInviteCreate\": {\n    \"success\": true,\n    \"organizationInvite\": {\n      \"id\": \"e9ffe4b6-769c-494b-9215-8cbbcf21b8d9\",\n      \"email\": \"daniel.foster@kohd.io\",\n      \"role\": \"guest\"\n    }\n  }\n}",
+      "stderr": ""
+    },
+    {
+      "email": "james.hall@kohd.io",
+      "code": 0,
+      "stdout": "{\n  \"organizationInviteCreate\": {\n    \"success\": true,\n    \"organizationInvite\": {\n      \"id\": \"d69101b6-a5f8-4622-b307-e7fb52e26bf1\",\n      \"email\": \"james.hall@kohd.io\",\n      \"role\": \"guest\"\n    }\n  }\n}",
+      "stderr": ""
+    },
+    {
+      "email": "clara.evans@kohd.io",
+      "code": 0,
+      "stdout": "{\n  \"organizationInviteCreate\": {\n    \"success\": true,\n    \"organizationInvite\": {\n      \"id\": \"f4f82fb0-5ea2-4074-a748-b52bec153067\",\n      \"email\": \"clara.evans@kohd.io\",\n      \"role\": \"guest\"\n    }\n  }\n}",
+      "stderr": ""
+    },
+    {
+      "email": "grace.morgan@kohd.io",
+      "code": 0,
+      "stdout": "{\n  \"organizationInviteCreate\": {\n    \"success\": true,\n    \"organizationInvite\": {\n      \"id\": \"59ac4e0a-8cd1-4db0-8652-6f09508242fe\",\n      \"email\": \"grace.morgan@kohd.io\",\n      \"role\": \"guest\"\n    }\n  }\n}",
+      "stderr": ""
+    },
+    {
+      "email": "laura.bennett@kohd.io",
+      "code": 0,
+      "stdout": "{\n  \"organizationInviteCreate\": {\n    \"success\": true,\n    \"organizationInvite\": {\n      \"id\": \"2dcb2b85-bd6c-4833-977d-541bb037c00a\",\n      \"email\": \"laura.bennett@kohd.io\",\n      \"role\": \"guest\"\n    }\n  }\n}",
+      "stderr": ""
+    },
+    {
+      "email": "mia.carter@kohd.io",
+      "code": 0,
+      "stdout": "{\n  \"organizationInviteCreate\": {\n    \"success\": true,\n    \"organizationInvite\": {\n      \"id\": \"7ea3fee0-925e-42c9-a55e-86a2d1d0be74\",\n      \"email\": \"mia.carter@kohd.io\",\n      \"role\": \"guest\"\n    }\n  }\n}",
+      "stderr": ""
+    }
+  ],
+  "cycle": {
+    "code": 0,
+    "stdout": "{\n  \"cycleCreate\": {\n    \"success\": true,\n    \"cycle\": {\n      \"id\": \"419266fb-046a-48d4-8eae-3e89ff3870d0\",\n      \"name\": \"KOHD Live Sprint 2026-05-29\",\n      \"startsAt\": \"2026-05-29T00:00:00.000Z\",\n      \"endsAt\": \"2026-06-12T00:00:00.000Z\"\n    }\n  }\n}",
+    "stderr": ""
+  }
+}

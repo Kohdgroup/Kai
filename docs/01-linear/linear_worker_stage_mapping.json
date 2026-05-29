@@ -1,0 +1,110 @@
+[
+  {
+    "project": "Aardvark",
+    "title": "AAS-ONB-001 Capture Operational Topology",
+    "stage": "discovery",
+    "worker": "Laura Bennett",
+    "points": 4,
+    "tokens": 4000,
+    "model": "gpt-5-mini"
+  },
+  {
+    "project": "Aardvark",
+    "title": "AAS-ONB-002 Platform Inventory Audit",
+    "stage": "inventory",
+    "worker": "Laura Bennett",
+    "points": 4,
+    "tokens": 3500,
+    "model": "claude-haiku"
+  },
+  {
+    "project": "Aardvark",
+    "title": "AAS-ONB-011 Define Entity Model and Job/Customer Schema",
+    "stage": "architecture",
+    "worker": "Olivia Chen",
+    "points": 5,
+    "tokens": 6000,
+    "model": "gpt-5-mini"
+  },
+  {
+    "project": "Aardvark",
+    "title": "AAS-ONB-020 Configure Linear Intake & Governance Framework",
+    "stage": "governance",
+    "worker": "Laura Bennett",
+    "points": 4,
+    "tokens": 3000,
+    "model": "gpt-5-mini"
+  },
+  {
+    "project": "Aardvark",
+    "title": "AAS-ONB-010 Provision Slack Operational Structure",
+    "stage": "comms",
+    "worker": "Mia Carter",
+    "points": 3,
+    "tokens": 2000,
+    "model": "claude-haiku"
+  },
+  {
+    "project": "Aardvark",
+    "title": "__TOTAL__",
+    "stage": "__TOTAL__",
+    "worker": "__TOTAL__",
+    "points": 20,
+    "tokens": 18500,
+    "model": "\u00a30.0010 token cost + labour not included"
+  },
+  {
+    "project": "EcoPUK",
+    "title": "ECP-001 Product Catalog & Inventory Management",
+    "stage": "catalog",
+    "worker": "Daniel Foster",
+    "points": 5,
+    "tokens": 6000,
+    "model": "gpt-5-mini"
+  },
+  {
+    "project": "EcoPUK",
+    "title": "ECP-002 Dynamic Pricing Engine",
+    "stage": "pricing",
+    "worker": "Olivia Chen",
+    "points": 8,
+    "tokens": 8000,
+    "model": "gpt-5-mini"
+  },
+  {
+    "project": "EcoPUK",
+    "title": "ECP-003 Quote Generation with Shipping Cost Integration",
+    "stage": "quoting",
+    "worker": "Olivia Chen",
+    "points": 8,
+    "tokens": 7000,
+    "model": "gpt-5-mini"
+  },
+  {
+    "project": "EcoPUK",
+    "title": "ECP-004 Customer Management & Segment Classification",
+    "stage": "segmentation",
+    "worker": "Hannah Clarke",
+    "points": 4,
+    "tokens": 3500,
+    "model": "claude-haiku"
+  },
+  {
+    "project": "EcoPUK",
+    "title": "ECP-005 Order Capture & PO Management",
+    "stage": "orders",
+    "worker": "Daniel Foster",
+    "points": 8,
+    "tokens": 7500,
+    "model": "gpt-5-mini"
+  },
+  {
+    "project": "EcoPUK",
+    "title": "__TOTAL__",
+    "stage": "__TOTAL__",
+    "worker": "__TOTAL__",
+    "points": 33,
+    "tokens": 32000,
+    "model": "\u00a30.0022 token cost + labour not included"
+  }
+]

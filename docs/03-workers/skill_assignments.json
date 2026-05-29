@@ -1,0 +1,302 @@
+{
+  "ba-acceptance-criteria-validator": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "product-owner",
+    "skill_name": "ba-acceptance-criteria-validator",
+    "source_path": "/kohd-kai/active/ba-acceptance-criteria-validator.SKILL.md"
+  },
+  "ba-requirements-engineer": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "product-owner",
+    "skill_name": "ba-requirements-engineer",
+    "source_path": "/kohd-kai/active/ba-requirements-engineer.SKILL.md"
+  },
+  "ba-stakeholder-liaison": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "scrum-master",
+    "skill_name": "ba-stakeholder-liaison",
+    "source_path": "/kohd-kai/active/ba-stakeholder-liaison.SKILL.md"
+  },
+  "backend-api-services-engineer": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "backend-engineer",
+    "skill_name": "backend-api-services-engineer",
+    "source_path": "/kohd-kai/active/backend-api-services-engineer.SKILL.md"
+  },
+  "backend-database-engineer": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "backend-engineer",
+    "skill_name": "backend-database-engineer",
+    "source_path": "/kohd-kai/active/backend-database-engineer.SKILL.md"
+  },
+  "backend-integration-engineer": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "integration-engineer",
+    "skill_name": "backend-integration-engineer",
+    "source_path": "/kohd-kai/active/backend-integration-engineer.SKILL.md"
+  },
+  "delivery-documentation-specialist": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "product-owner",
+    "skill_name": "delivery-documentation-specialist",
+    "source_path": "/kohd-kai/active/delivery-documentation-specialist.SKILL.md"
+  },
+  "delivery-solution-validator": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "product-owner",
+    "skill_name": "delivery-solution-validator",
+    "source_path": "/kohd-kai/active/delivery-solution-validator.SKILL.md"
+  },
+  "delivery-training-knowledge-manager": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "product-owner",
+    "skill_name": "delivery-training-knowledge-manager",
+    "source_path": "/kohd-kai/active/delivery-training-knowledge-manager.SKILL.md"
+  },
+  "design-interaction-designer": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "design-lead",
+    "skill_name": "design-interaction-designer",
+    "source_path": "/kohd-kai/active/design-interaction-designer.SKILL.md"
+  },
+  "design-solution-architect": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "design-lead",
+    "skill_name": "design-solution-architect",
+    "source_path": "/kohd-kai/active/design-solution-architect.SKILL.md"
+  },
+  "design-technical-writer": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "design-lead",
+    "skill_name": "design-technical-writer",
+    "source_path": "/kohd-kai/active/design-technical-writer.SKILL.md"
+  },
+  "design-ux-expert": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "design-lead",
+    "skill_name": "design-ux-expert",
+    "source_path": "/kohd-kai/active/design-ux-expert.SKILL.md"
+  },
+  "devops-deployment-engineer": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "devops-platform-engineer",
+    "skill_name": "devops-deployment-engineer",
+    "source_path": "/kohd-kai/active/devops-deployment-engineer.SKILL.md"
+  },
+  "devops-infrastructure-engineer": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "devops-platform-engineer",
+    "skill_name": "devops-infrastructure-engineer",
+    "source_path": "/kohd-kai/active/devops-infrastructure-engineer.SKILL.md"
+  },
+  "devops-monitoring-engineer": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "devops-platform-engineer",
+    "skill_name": "devops-monitoring-engineer",
+    "source_path": "/kohd-kai/active/devops-monitoring-engineer.SKILL.md"
+  },
+  "failure-development-fixer": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "root-cause-analyst",
+    "skill_name": "failure-development-fixer",
+    "source_path": "/kohd-kai/active/failure-development-fixer.SKILL.md"
+  },
+  "failure-root-cause-analyst": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "root-cause-analyst",
+    "skill_name": "failure-root-cause-analyst",
+    "source_path": "/kohd-kai/active/failure-root-cause-analyst.SKILL.md"
+  },
+  "failure-test-case-enhancer": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "root-cause-analyst",
+    "skill_name": "failure-test-case-enhancer",
+    "source_path": "/kohd-kai/active/failure-test-case-enhancer.SKILL.md"
+  },
+  "frontend-component-engineer": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "frontend-engineer",
+    "skill_name": "frontend-component-engineer",
+    "source_path": "/kohd-kai/active/frontend-component-engineer.SKILL.md"
+  },
+  "frontend-mobile-engineer": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "frontend-engineer",
+    "skill_name": "frontend-mobile-engineer",
+    "source_path": "/kohd-kai/active/frontend-mobile-engineer.SKILL.md"
+  },
+  "frontend-react-ui-engineer": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "frontend-engineer",
+    "skill_name": "frontend-react-ui-engineer",
+    "source_path": "/kohd-kai/active/frontend-react-ui-engineer.SKILL.md"
+  },
+  "hub-cross-hub-dependency-manager": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "scrum-master",
+    "skill_name": "hub-cross-hub-dependency-manager",
+    "source_path": "/kohd-kai/active/hub-cross-hub-dependency-manager.SKILL.md"
+  },
+  "hub-office-manager-coordinator": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "people-ops-coordinator",
+    "skill_name": "hub-office-manager-coordinator",
+    "source_path": "/kohd-kai/active/hub-office-manager-coordinator.SKILL.md"
+  },
+  "hub-office-workshop-liaison": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "people-ops-coordinator",
+    "skill_name": "hub-office-workshop-liaison",
+    "source_path": "/kohd-kai/active/hub-office-workshop-liaison.SKILL.md"
+  },
+  "hub-production-lead": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "scrum-master",
+    "skill_name": "hub-production-lead",
+    "source_path": "/kohd-kai/active/hub-production-lead.SKILL.md"
+  },
+  "hub-quality-delivery-lead": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "scrum-master",
+    "skill_name": "hub-quality-delivery-lead",
+    "source_path": "/kohd-kai/active/hub-quality-delivery-lead.SKILL.md"
+  },
+  "hub-workshop-manager": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "scrum-master",
+    "skill_name": "hub-workshop-manager",
+    "source_path": "/kohd-kai/active/hub-workshop-manager.SKILL.md"
+  },
+  "lead-control-layer-lead": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "scrum-master",
+    "skill_name": "lead-control-layer-lead",
+    "source_path": "/kohd-kai/active/lead-control-layer-lead.SKILL.md"
+  },
+  "lead-product-owner": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "product-owner",
+    "skill_name": "lead-product-owner",
+    "source_path": "/kohd-kai/active/lead-product-owner.SKILL.md"
+  },
+  "lead-rai-control-orchestrator": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "scrum-master",
+    "skill_name": "lead-rai-control-orchestrator",
+    "source_path": "/kohd-kai/active/lead-rai-control-orchestrator.SKILL.md"
+  },
+  "lead-technical-architect": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "scrum-master",
+    "skill_name": "lead-technical-architect",
+    "source_path": "/kohd-kai/active/lead-technical-architect.SKILL.md"
+  },
+  "marketing-ai-gtm-strategist": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "marketing-lead",
+    "skill_name": "marketing-ai-gtm-strategist",
+    "source_path": "/kohd-kai/active/marketing-ai-gtm-strategist.SKILL.md"
+  },
+  "marketing-brand-strategist": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "marketing-lead",
+    "skill_name": "marketing-brand-strategist",
+    "source_path": "/kohd-kai/active/marketing-brand-strategist.SKILL.md"
+  },
+  "marketing-community-membership-growth": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "social-media-community-manager",
+    "skill_name": "marketing-community-membership-growth",
+    "source_path": "/kohd-kai/active/marketing-community-membership-growth.SKILL.md"
+  },
+  "marketing-demand-generation": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "marketing-lead",
+    "skill_name": "marketing-demand-generation",
+    "source_path": "/kohd-kai/active/marketing-demand-generation.SKILL.md"
+  },
+  "marketing-growth-architect": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "marketing-lead",
+    "skill_name": "marketing-growth-architect",
+    "source_path": "/kohd-kai/active/marketing-growth-architect.SKILL.md"
+  },
+  "marketing-performance-marketer": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "marketing-lead",
+    "skill_name": "marketing-performance-marketer",
+    "source_path": "/kohd-kai/active/marketing-performance-marketer.SKILL.md"
+  },
+  "qa-integration-test-engineer": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "qa-lead",
+    "skill_name": "qa-integration-test-engineer",
+    "source_path": "/kohd-kai/active/qa-integration-test-engineer.SKILL.md"
+  },
+  "qa-performance-test-engineer": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "qa-lead",
+    "skill_name": "qa-performance-test-engineer",
+    "source_path": "/kohd-kai/active/qa-performance-test-engineer.SKILL.md"
+  },
+  "qa-security-test-engineer": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "qa-lead",
+    "skill_name": "qa-security-test-engineer",
+    "source_path": "/kohd-kai/active/qa-security-test-engineer.SKILL.md"
+  },
+  "qa-test-automation-engineer": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "qa-lead",
+    "skill_name": "qa-test-automation-engineer",
+    "source_path": "/kohd-kai/active/qa-test-automation-engineer.SKILL.md"
+  },
+  "sales-customer-success": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "customer-support-lead",
+    "skill_name": "sales-customer-success",
+    "source_path": "/kohd-kai/active/sales-customer-success.SKILL.md"
+  },
+  "sales-digital-transformation-consultant": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "customer-support-lead",
+    "skill_name": "sales-digital-transformation-consultant",
+    "source_path": "/kohd-kai/active/sales-digital-transformation-consultant.SKILL.md"
+  },
+  "sales-enterprise-sales-director": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "partnerships-sponsorship-manager",
+    "skill_name": "sales-enterprise-sales-director",
+    "source_path": "/kohd-kai/active/sales-enterprise-sales-director.SKILL.md"
+  },
+  "sales-partnerships": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "partnerships-sponsorship-manager",
+    "skill_name": "sales-partnerships",
+    "source_path": "/kohd-kai/active/sales-partnerships.SKILL.md"
+  },
+  "sales-revenue-operations": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "revenue-operations-manager",
+    "skill_name": "sales-revenue-operations",
+    "source_path": "/kohd-kai/active/sales-revenue-operations.SKILL.md"
+  },
+  "sales-sdr-bdr": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "customer-support-lead",
+    "skill_name": "sales-sdr-bdr",
+    "source_path": "/kohd-kai/active/sales-sdr-bdr.SKILL.md"
+  },
+  "sales-sponsorship-commercial-strategy": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "partnerships-sponsorship-manager",
+    "skill_name": "sales-sponsorship-commercial-strategy",
+    "source_path": "/kohd-kai/active/sales-sponsorship-commercial-strategy.SKILL.md"
+  },
+  "sales-sports-club-commercial-director": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "partnerships-sponsorship-manager",
+    "skill_name": "sales-sports-club-commercial-director",
+    "source_path": "/kohd-kai/active/sales-sports-club-commercial-director.SKILL.md"
+  }
+}

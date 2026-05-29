@@ -1,0 +1,74 @@
+{
+  "generated_at": "2026-05-29T11:34:05.859231+00:00",
+  "members": [
+    {
+      "id": "board-neil-riley",
+      "name": "Neil Riley",
+      "role": "advisory",
+      "skills": [
+        "cxo-cso-strategy",
+        "cxo-cpo-product",
+        "cxo-cxo-customer-experience"
+      ],
+      "title": "Founder / Chair"
+    },
+    {
+      "id": "board-eleanor-briggs",
+      "name": "Eleanor Briggs",
+      "role": "advisory",
+      "skills": [
+        "cxo-ceo"
+      ],
+      "title": "Founder CEO Advisor"
+    },
+    {
+      "id": "board-nikhil-shah",
+      "name": "Nikhil Shah",
+      "role": "advisory",
+      "skills": [
+        "cxo-cto",
+        "cxo-cio",
+        "cxo-ciso"
+      ],
+      "title": "Founder CIO/CTO Advisor"
+    },
+    {
+      "id": "board-marcus-bennett",
+      "name": "Marcus Bennett",
+      "role": "advisory",
+      "skills": [
+        "cxo-coo"
+      ],
+      "title": "Founder COO Advisor"
+    },
+    {
+      "id": "board-priya-kapoor",
+      "name": "Priya Kapoor",
+      "role": "advisory",
+      "skills": [
+        "cxo-cro",
+        "cxo-cco-commercial",
+        "cxo-cmo"
+      ],
+      "title": "Commercial / Revenue Advisor"
+    },
+    {
+      "id": "board-hannah-clarke",
+      "name": "Hannah Clarke",
+      "role": "advisory",
+      "skills": [
+        "cxo-chro"
+      ],
+      "title": "People Advisor"
+    },
+    {
+      "id": "board-samuel-price",
+      "name": "Samuel Price",
+      "role": "advisory",
+      "skills": [
+        "cxo-cfo"
+      ],
+      "title": "Finance Advisor"
+    }
+  ]
+}

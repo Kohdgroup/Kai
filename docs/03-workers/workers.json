@@ -1,0 +1,419 @@
+{
+  "ai-capability-automation-lead": {
+    "created": "2026-05-29T12:12:07.756882+00:00",
+    "email": "zoe.parker@kohd.io",
+    "hourly_rate_gbp": 62.5,
+    "hourly_rate_usd": 79.33,
+    "id": "ai-capability-automation-lead",
+    "level": "senior",
+    "linear_team_member": false,
+    "name": "Zoe Parker",
+    "requires_mailbox": true,
+    "role": "ai-automation",
+    "salary_gbp": 130000,
+    "salary_usd": 165000,
+    "skills": [
+      "model-routing",
+      "model-evaluation",
+      "multimodal-routing",
+      "prompt-automation",
+      "ai-cost-optimisation",
+      "workflow-automation",
+      "benchmark-design",
+      "provider-catalog-monitoring",
+      "capability-discovery",
+      "automation-ops"
+    ],
+    "status": "active",
+    "title": "AI Capability & Automation Lead"
+  },
+  "backend-engineer": {
+    "created": "2026-05-29T11:34:05.859231+00:00",
+    "email": "olivia.chen@kohd.io",
+    "hourly_rate_gbp": 74.52,
+    "hourly_rate_usd": 93.75,
+    "id": "backend-engineer",
+    "level": "senior",
+    "linear_team_member": false,
+    "name": "Olivia Chen",
+    "requires_mailbox": true,
+    "role": "engineering",
+    "salary_gbp": 155000,
+    "salary_usd": 195000,
+    "skills": [
+      "backend-api-services-engineer",
+      "backend-database-engineer"
+    ],
+    "status": "active",
+    "title": "Backend Engineer"
+  },
+  "customer-support-lead": {
+    "created": "2026-05-29T11:34:05.859231+00:00",
+    "email": "noah.hughes@kohd.io",
+    "hourly_rate_gbp": 45.67,
+    "hourly_rate_usd": 57.69,
+    "id": "customer-support-lead",
+    "level": "mid",
+    "linear_team_member": false,
+    "name": "Noah Hughes",
+    "requires_mailbox": true,
+    "role": "support",
+    "salary_gbp": 95000,
+    "salary_usd": 120000,
+    "skills": [
+      "sales-customer-success",
+      "sales-digital-transformation-consultant",
+      "sales-sdr-bdr"
+    ],
+    "status": "active",
+    "title": "Customer Support Lead"
+  },
+  "design-lead": {
+    "created": "2026-05-29T11:34:05.859231+00:00",
+    "email": "maya.thompson@kohd.io",
+    "hourly_rate_gbp": 67.31,
+    "hourly_rate_usd": 86.54,
+    "id": "design-lead",
+    "level": "senior",
+    "linear_team_member": false,
+    "name": "Maya Thompson",
+    "requires_mailbox": true,
+    "role": "design",
+    "salary_gbp": 140000,
+    "salary_usd": 180000,
+    "skills": [
+      "design-solution-architect",
+      "design-ux-expert",
+      "design-interaction-designer",
+      "design-technical-writer"
+    ],
+    "status": "active",
+    "title": "Design Lead"
+  },
+  "devops-kubernetes-specialist": {
+    "created": "2026-05-29T11:34:05.859231+00:00",
+    "email": "alex.smith@kohd.io",
+    "hourly_rate_gbp": 58.87,
+    "hourly_rate_usd": 74.52,
+    "id": "devops-kubernetes-specialist",
+    "level": "mid",
+    "linear_team_member": false,
+    "name": "Alex Smith",
+    "requires_mailbox": true,
+    "role": "devops",
+    "salary_gbp": 122450,
+    "salary_usd": 155000,
+    "skills": [
+      "devops-kubernetes-automation"
+    ],
+    "status": "active",
+    "title": "DevOps Kubernetes Specialist"
+  },
+  "devops-platform-engineer": {
+    "created": "2026-05-29T11:34:05.859231+00:00",
+    "email": "sophie.grant@kohd.io",
+    "hourly_rate_gbp": 72.12,
+    "hourly_rate_usd": 91.35,
+    "id": "devops-platform-engineer",
+    "level": "senior",
+    "linear_team_member": false,
+    "name": "Sophie Grant",
+    "requires_mailbox": true,
+    "role": "devops",
+    "salary_gbp": 150000,
+    "salary_usd": 190000,
+    "skills": [
+      "devops-infrastructure-engineer",
+      "devops-deployment-engineer",
+      "devops-monitoring-engineer"
+    ],
+    "status": "active",
+    "title": "DevOps Platform Engineer"
+  },
+  "frontend-engineer": {
+    "created": "2026-05-29T11:34:05.859231+00:00",
+    "email": "ethan.brooks@kohd.io",
+    "hourly_rate_gbp": 72.12,
+    "hourly_rate_usd": 91.35,
+    "id": "frontend-engineer",
+    "level": "senior",
+    "linear_team_member": false,
+    "name": "Ethan Brooks",
+    "requires_mailbox": true,
+    "role": "engineering",
+    "salary_gbp": 150000,
+    "salary_usd": 190000,
+    "skills": [
+      "frontend-react-ui-engineer",
+      "frontend-component-engineer",
+      "frontend-mobile-engineer"
+    ],
+    "status": "active",
+    "title": "Frontend Engineer"
+  },
+  "generated_at": "2026-05-29T12:46:33.848063+00:00",
+  "integration-engineer": {
+    "created": "2026-05-29T11:34:05.859231+00:00",
+    "email": "ruby.patel@kohd.io",
+    "hourly_rate_gbp": 60.1,
+    "hourly_rate_usd": 76.92,
+    "id": "integration-engineer",
+    "level": "mid",
+    "linear_team_member": false,
+    "name": "Ruby Patel",
+    "requires_mailbox": true,
+    "role": "engineering",
+    "salary_gbp": 125000,
+    "salary_usd": 160000,
+    "skills": [
+      "backend-integration-engineer"
+    ],
+    "status": "active",
+    "title": "Integration Engineer"
+  },
+  "marketing-lead": {
+    "created": "2026-05-29T11:34:05.859231+00:00",
+    "email": "priya.kapoor@kohd.io",
+    "hourly_rate_gbp": 64.9,
+    "hourly_rate_usd": 84.13,
+    "id": "marketing-lead",
+    "level": "senior",
+    "linear_team_member": false,
+    "name": "Priya Kapoor",
+    "requires_mailbox": true,
+    "role": "marketing",
+    "salary_gbp": 135000,
+    "salary_usd": 175000,
+    "skills": [
+      "marketing-demand-generation",
+      "marketing-performance-marketer",
+      "marketing-brand-strategist",
+      "marketing-growth-architect",
+      "marketing-ai-gtm-strategist"
+    ],
+    "status": "active",
+    "title": "Marketing Lead"
+  },
+  "partnerships-sponsorship-manager": {
+    "created": "2026-05-29T11:34:05.859231+00:00",
+    "email": "robert.singh@kohd.io",
+    "hourly_rate_gbp": 55.29,
+    "hourly_rate_usd": 69.71,
+    "id": "partnerships-sponsorship-manager",
+    "level": "mid",
+    "linear_team_member": false,
+    "name": "Robert Singh",
+    "requires_mailbox": true,
+    "role": "commercial",
+    "salary_gbp": 115000,
+    "salary_usd": 145000,
+    "skills": [
+      "sales-enterprise-sales-director",
+      "sales-partnerships",
+      "sales-sponsorship-commercial-strategy",
+      "sales-sports-club-commercial-director"
+    ],
+    "status": "active",
+    "title": "Partnerships & Sponsorship Manager"
+  },
+  "people-ops-coordinator": {
+    "created": "2026-05-29T11:34:05.859231+00:00",
+    "email": "hannah.clarke@kohd.io",
+    "hourly_rate_gbp": 48.08,
+    "hourly_rate_usd": 62.5,
+    "id": "people-ops-coordinator",
+    "level": "mid",
+    "linear_team_member": false,
+    "name": "Hannah Clarke",
+    "requires_mailbox": true,
+    "role": "operations",
+    "salary_gbp": 100000,
+    "salary_usd": 130000,
+    "skills": [
+      "ba-stakeholder-liaison",
+      "hub-office-manager-coordinator",
+      "hub-office-workshop-liaison"
+    ],
+    "status": "active",
+    "title": "People Ops Coordinator"
+  },
+  "product-owner": {
+    "created": "2026-05-29T11:34:05.859231+00:00",
+    "email": "daniel.foster@kohd.io",
+    "hourly_rate_gbp": 72.12,
+    "hourly_rate_usd": 91.35,
+    "id": "product-owner",
+    "level": "senior",
+    "linear_team_member": false,
+    "name": "Daniel Foster",
+    "requires_mailbox": true,
+    "role": "product",
+    "salary_gbp": 150000,
+    "salary_usd": 190000,
+    "skills": [
+      "lead-product-owner",
+      "ba-requirements-engineer",
+      "ba-acceptance-criteria-validator",
+      "delivery-solution-validator",
+      "delivery-documentation-specialist",
+      "delivery-training-knowledge-manager"
+    ],
+    "status": "active",
+    "title": "Product Owner"
+  },
+  "qa-lead": {
+    "created": "2026-05-29T11:34:05.859231+00:00",
+    "email": "james.hall@kohd.io",
+    "hourly_rate_gbp": 57.69,
+    "hourly_rate_usd": 72.12,
+    "id": "qa-lead",
+    "level": "mid",
+    "linear_team_member": false,
+    "name": "James Hall",
+    "requires_mailbox": true,
+    "role": "qa",
+    "salary_gbp": 120000,
+    "salary_usd": 150000,
+    "skills": [
+      "qa-test-automation-engineer",
+      "qa-integration-test-engineer",
+      "qa-security-test-engineer",
+      "qa-performance-test-engineer"
+    ],
+    "status": "active",
+    "title": "QA Lead"
+  },
+  "revenue-operations-manager": {
+    "created": "2026-05-29T11:34:05.859231+00:00",
+    "email": "clara.evans@kohd.io",
+    "hourly_rate_gbp": 52.88,
+    "hourly_rate_usd": 67.31,
+    "id": "revenue-operations-manager",
+    "level": "mid",
+    "linear_team_member": false,
+    "name": "Clara Evans",
+    "requires_mailbox": true,
+    "role": "commercial",
+    "salary_gbp": 110000,
+    "salary_usd": 140000,
+    "skills": [
+      "sales-revenue-operations"
+    ],
+    "status": "active",
+    "title": "Revenue Operations Manager"
+  },
+  "root-cause-analyst": {
+    "created": "2026-05-29T11:34:05.859231+00:00",
+    "email": "grace.morgan@kohd.io",
+    "hourly_rate_gbp": 62.5,
+    "hourly_rate_usd": 79.33,
+    "id": "root-cause-analyst",
+    "level": "senior",
+    "linear_team_member": false,
+    "name": "Grace Morgan",
+    "requires_mailbox": true,
+    "role": "failure",
+    "salary_gbp": 130000,
+    "salary_usd": 165000,
+    "skills": [
+      "failure-root-cause-analyst",
+      "failure-development-fixer",
+      "failure-test-case-enhancer"
+    ],
+    "status": "active",
+    "title": "Root Cause Analyst"
+  },
+  "scrum-master": {
+    "automation_policy": {
+      "alert_on": [
+        "blockers",
+        "token-cost overruns"
+      ],
+      "all_teams": true,
+      "assign_only_open_issues_in_current_sprint": true,
+      "escalate_when": "sprint blocked",
+      "linear_access": "full",
+      "no_backlog_assignment": true,
+      "no_closed_issue_assignment": true,
+      "poll_interval_minutes": 30,
+      "project_first": true,
+      "real_time_updates": true
+    },
+    "autonomous": true,
+    "cadence_minutes": 30,
+    "created": "2026-05-29T11:34:05.859231+00:00",
+    "email": "laura.bennett@kohd.io",
+    "escalation_policy": "if sprint blocked",
+    "focus": [
+      "all teams",
+      "both active cycle and project milestones",
+      "find new items every 30 minutes",
+      "coordinate with the correct worker role",
+      "flag blockers and token-cost overruns",
+      "escalate only when sprint blocked",
+      "use Linear as system of record"
+    ],
+    "hourly_rate_gbp": 62.5,
+    "hourly_rate_usd": 79.33,
+    "id": "scrum-master",
+    "level": "senior",
+    "linear_native": true,
+    "linear_responsibilities": [
+      "project awareness",
+      "next sprint awareness",
+      "current sprint issue assignment only",
+      "real-time status tracking",
+      "view and dashboard upkeep",
+      "capacity and dependency monitoring"
+    ],
+    "linear_team_member": false,
+    "live_projects_only": true,
+    "name": "Laura Bennett",
+    "permissions": "full Linear access",
+    "project_scope": [
+      "Aardvark",
+      "EcoPUK"
+    ],
+    "requires_mailbox": true,
+    "role": "scrum-master",
+    "salary_gbp": 130000,
+    "salary_usd": 165000,
+    "scope": "all teams",
+    "scope_note": "Only Aardvark and EcoPUK are kept live for current sprint / next sprint planning.",
+    "signal_sources": [
+      "active cycle",
+      "project milestones"
+    ],
+    "skills": [
+      "lead-control-layer-lead",
+      "lead-rai-control-orchestrator",
+      "hub-cross-hub-dependency-manager",
+      "hub-production-lead",
+      "hub-quality-delivery-lead",
+      "hub-workshop-manager",
+      "ba-stakeholder-liaison",
+      "lead-technical-architect"
+    ],
+    "status": "active",
+    "title": "Linear Autonomous Scrum Master"
+  },
+  "social-media-community-manager": {
+    "created": "2026-05-29T11:34:05.859231+00:00",
+    "email": "mia.carter@kohd.io",
+    "hourly_rate_gbp": 43.27,
+    "hourly_rate_usd": 55.29,
+    "id": "social-media-community-manager",
+    "level": "mid",
+    "linear_team_member": false,
+    "name": "Mia Carter",
+    "requires_mailbox": true,
+    "role": "marketing",
+    "salary_gbp": 90000,
+    "salary_usd": 115000,
+    "skills": [
+      "marketing-community-membership-growth"
+    ],
+    "status": "active",
+    "title": "Social Media & Community Manager"
+  }
+}

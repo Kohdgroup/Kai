@@ -1,0 +1,152 @@
+{
+  "core_users": [
+    {
+      "name": "Neil Riley",
+      "email": "neil.riley@kohd.ai",
+      "role": "org owner / executive sponsor"
+    },
+    {
+      "name": "Linear",
+      "email": "linear-4dcf5b98-4779-4501-a3c6-f412847f624f@linear.linear.app",
+      "role": "system account"
+    }
+  ],
+  "guest_workers": [
+    {
+      "key": "devops-kubernetes-specialist",
+      "name": "Alex Smith",
+      "email": "alex.smith@kohd.io",
+      "title": "DevOps Kubernetes Specialist",
+      "team": "",
+      "guest_scope": "guest only"
+    },
+    {
+      "key": "revenue-operations-manager",
+      "name": "Clara Evans",
+      "email": "clara.evans@kohd.io",
+      "title": "Revenue Operations Manager",
+      "team": "",
+      "guest_scope": "guest only"
+    },
+    {
+      "key": "product-owner",
+      "name": "Daniel Foster",
+      "email": "daniel.foster@kohd.io",
+      "title": "Product Owner",
+      "team": "",
+      "guest_scope": "guest only"
+    },
+    {
+      "key": "frontend-engineer",
+      "name": "Ethan Brooks",
+      "email": "ethan.brooks@kohd.io",
+      "title": "Frontend Engineer",
+      "team": "",
+      "guest_scope": "guest only"
+    },
+    {
+      "key": "root-cause-analyst",
+      "name": "Grace Morgan",
+      "email": "grace.morgan@kohd.io",
+      "title": "Root Cause Analyst",
+      "team": "",
+      "guest_scope": "guest only"
+    },
+    {
+      "key": "people-ops-coordinator",
+      "name": "Hannah Clarke",
+      "email": "hannah.clarke@kohd.io",
+      "title": "People Ops Coordinator",
+      "team": "",
+      "guest_scope": "guest only"
+    },
+    {
+      "key": "qa-lead",
+      "name": "James Hall",
+      "email": "james.hall@kohd.io",
+      "title": "QA Lead",
+      "team": "",
+      "guest_scope": "guest only"
+    },
+    {
+      "key": "scrum-master",
+      "name": "Laura Bennett",
+      "email": "laura.bennett@kohd.io",
+      "title": "Linear Autonomous Scrum Master",
+      "team": "",
+      "guest_scope": "guest only"
+    },
+    {
+      "key": "design-lead",
+      "name": "Maya Thompson",
+      "email": "maya.thompson@kohd.io",
+      "title": "Design Lead",
+      "team": "",
+      "guest_scope": "guest only"
+    },
+    {
+      "key": "social-media-community-manager",
+      "name": "Mia Carter",
+      "email": "mia.carter@kohd.io",
+      "title": "Social Media & Community Manager",
+      "team": "",
+      "guest_scope": "guest only"
+    },
+    {
+      "key": "customer-support-lead",
+      "name": "Noah Hughes",
+      "email": "noah.hughes@kohd.io",
+      "title": "Customer Support Lead",
+      "team": "",
+      "guest_scope": "guest only"
+    },
+    {
+      "key": "backend-engineer",
+      "name": "Olivia Chen",
+      "email": "olivia.chen@kohd.io",
+      "title": "Backend Engineer",
+      "team": "",
+      "guest_scope": "guest only"
+    },
+    {
+      "key": "marketing-lead",
+      "name": "Priya Kapoor",
+      "email": "priya.kapoor@kohd.io",
+      "title": "Marketing Lead",
+      "team": "",
+      "guest_scope": "guest only"
+    },
+    {
+      "key": "partnerships-sponsorship-manager",
+      "name": "Robert Singh",
+      "email": "robert.singh@kohd.io",
+      "title": "Partnerships & Sponsorship Manager",
+      "team": "",
+      "guest_scope": "guest only"
+    },
+    {
+      "key": "integration-engineer",
+      "name": "Ruby Patel",
+      "email": "ruby.patel@kohd.io",
+      "title": "Integration Engineer",
+      "team": "",
+      "guest_scope": "guest only"
+    },
+    {
+      "key": "devops-platform-engineer",
+      "name": "Sophie Grant",
+      "email": "sophie.grant@kohd.io",
+      "title": "DevOps Platform Engineer",
+      "team": "",
+      "guest_scope": "guest only"
+    },
+    {
+      "key": "ai-capability-automation-lead",
+      "name": "Zoe Parker",
+      "email": "zoe.parker@kohd.io",
+      "title": "AI Capability & Automation Lead",
+      "team": "",
+      "guest_scope": "guest only"
+    }
+  ]
+}

@@ -1,15 +1,13 @@
-# Kai Documentation
+# Kai Documentation Repository
 
-This repository contains KOHD planning and governance documentation:
+This repository stores KOHD operational documentation, organized into sections:
 
-- Linear guest-user roster
-- Global planning standard
-- Sprint templates
-- Scrum master autonomous operating spec
-- Model routing matrix
-- CD delivery dashboards and initiatives
+1. Linear planning and templates
+2. Governance and operating specs
+3. Worker roster and mappings
+4. Project and delivery references
+5. NAS and storage operations
+6. Skills library snapshots
+7. Archives and scratch outputs
 
-Structure:
-- docs/linear
-- docs/workers
-- docs/governance
+Use `docs/README.md` as the entry point.

@@ -1,0 +1,291 @@
+{
+  "timestamp": "2026-05-29T06:32:57.396554+00:00",
+  "agent_version": "1.0.0",
+  "volumes": {
+    "ecopuk": {
+      "name": "ecopuk",
+      "path": "/app/data/hermes/volumes/ecopuk",
+      "scanned_at": "2026-05-29T06:32:57.397492+00:00",
+      "folders": {
+        "inbox": {
+          "path": "/app/data/hermes/volumes/ecopuk/inbox",
+          "file_count": 1,
+          "size_bytes": 14,
+          "modified": 1780036207.4086015
+        },
+        "active": {
+          "path": "/app/data/hermes/volumes/ecopuk/active",
+          "file_count": 0,
+          "size_bytes": 0,
+          "modified": 1780034868.073571
+        },
+        "archive": {
+          "path": "/app/data/hermes/volumes/ecopuk/archive",
+          "file_count": 0,
+          "size_bytes": 0,
+          "modified": 1780034868.073571
+        },
+        "tmp": {
+          "path": "/app/data/hermes/volumes/ecopuk/tmp",
+          "file_count": 0,
+          "size_bytes": 0,
+          "modified": 1780034868.073571
+        },
+        "manifests": {
+          "path": "/app/data/hermes/volumes/ecopuk/manifests",
+          "file_count": 0,
+          "size_bytes": 0,
+          "modified": 1780034868.073571
+        },
+        "reports": {
+          "path": "/app/data/hermes/volumes/ecopuk/reports",
+          "file_count": 0,
+          "size_bytes": 0,
+          "modified": 1780034868.073571
+        }
+      },
+      "total_files": 1,
+      "total_size_bytes": 14,
+      "file_summary": {
+        "inbox": [
+          {
+            "name": "customer-notes.txt",
+            "size": 14,
+            "modified": 1780036207.4086015,
+            "hash": "426b1f38db23de0ea841e1d315640920"
+          }
+        ],
+        "active": [],
+        "archive": [],
+        "tmp": [],
+        "manifests": [],
+        "reports": []
+      },
+      "policy_compliance": {
+        "has_manifest": true,
+        "folder_structure_valid": true,
+        "required_folders_present": [
+          "inbox",
+          "active",
+          "archive",
+          "tmp",
+          "manifests",
+          "reports"
+        ],
+        "issues": []
+      },
+      "manifest": {
+        "name": "ecopuk",
+        "purpose": "\"EcoPUK environmental/sustainability club operations, customer data, workflows, and project assets\"",
+        "owner": "\"EcoPUK team\"",
+        "read_only": "false",
+        "allowed_writers": "",
+        "retention_policy": "\"Keep active for 2 years; archive after; retain archives for 7 years\"",
+        "inbox_path": "\"/app/data/hermes/volumes/ecopuk/inbox\"",
+        "active_path": "\"/app/data/hermes/volumes/ecopuk/active\"",
+        "archive_path": "\"/app/data/hermes/volumes/ecopuk/archive\"",
+        "tmp_path": "\"/app/data/hermes/volumes/ecopuk/tmp\"",
+        "manifests_path": "\"/app/data/hermes/volumes/ecopuk/manifests\"",
+        "reports_path": "\"/app/data/hermes/volumes/ecopuk/reports\"",
+        "notes": "\"Primary data for EcoPUK customer operations. Syncs with Google Workspace for media/archives.\"",
+        "created": "2026-05-29",
+        "updated": "2026-05-29"
+      },
+      "health": "healthy"
+    },
+    "kohd": {
+      "name": "kohd",
+      "path": "/app/data/hermes/volumes/kohd",
+      "scanned_at": "2026-05-29T06:32:57.399094+00:00",
+      "folders": {
+        "inbox": {
+          "path": "/app/data/hermes/volumes/kohd/inbox",
+          "file_count": 1,
+          "size_bytes": 18,
+          "modified": 1780036207.4076014
+        },
+        "active": {
+          "path": "/app/data/hermes/volumes/kohd/active",
+          "file_count": 1,
+          "size_bytes": 15,
+          "modified": 1780036207.4086015
+        },
+        "archive": {
+          "path": "/app/data/hermes/volumes/kohd/archive",
+          "file_count": 0,
+          "size_bytes": 0,
+          "modified": 1780034868.073571
+        },
+        "tmp": {
+          "path": "/app/data/hermes/volumes/kohd/tmp",
+          "file_count": 0,
+          "size_bytes": 0,
+          "modified": 1780034868.073571
+        },
+        "manifests": {
+          "path": "/app/data/hermes/volumes/kohd/manifests",
+          "file_count": 0,
+          "size_bytes": 0,
+          "modified": 1780034868.0745711
+        },
+        "reports": {
+          "path": "/app/data/hermes/volumes/kohd/reports",
+          "file_count": 0,
+          "size_bytes": 0,
+          "modified": 1780034868.0745711
+        }
+      },
+      "total_files": 2,
+      "total_size_bytes": 33,
+      "file_summary": {
+        "inbox": [
+          {
+            "name": "test-skill.md",
+            "size": 18,
+            "modified": 1780036207.4076014,
+            "hash": "cfeb4a91cd8f6d5215fb7f27ab0a4694"
+          }
+        ],
+        "active": [
+          {
+            "name": "project-2026-q2.md",
+            "size": 15,
+            "modified": 1780036207.4086015,
+            "hash": "bdd21a0217dc909178d6d896d2dba588"
+          }
+        ],
+        "archive": [],
+        "tmp": [],
+        "manifests": [],
+        "reports": []
+      },
+      "policy_compliance": {
+        "has_manifest": true,
+        "folder_structure_valid": true,
+        "required_folders_present": [
+          "inbox",
+          "active",
+          "archive",
+          "tmp",
+          "manifests",
+          "reports"
+        ],
+        "issues": []
+      },
+      "manifest": {
+        "name": "kohd",
+        "purpose": "\"KOHD primary platform data, customer assets, club operations, integrations, and project workflows\"",
+        "owner": "\"KOHD systems team\"",
+        "read_only": "false",
+        "allowed_writers": "",
+        "retention_policy": "\"Keep active for 2 years; archive after; retain archives for 7 years\"",
+        "inbox_path": "\"/app/data/hermes/volumes/kohd/inbox\"",
+        "active_path": "\"/app/data/hermes/volumes/kohd/active\"",
+        "archive_path": "\"/app/data/hermes/volumes/kohd/archive\"",
+        "tmp_path": "\"/app/data/hermes/volumes/kohd/tmp\"",
+        "manifests_path": "\"/app/data/hermes/volumes/kohd/manifests\"",
+        "reports_path": "\"/app/data/hermes/volumes/kohd/reports\"",
+        "notes": "\"Core KOHD operations, club data, exports, and integrations. Primary backup target for production.\"",
+        "created": "2026-05-29",
+        "updated": "2026-05-29"
+      },
+      "health": "healthy"
+    },
+    "shared": {
+      "name": "shared",
+      "path": "/app/data/hermes/volumes/shared",
+      "scanned_at": "2026-05-29T06:32:57.400777+00:00",
+      "folders": {
+        "inbox": {
+          "path": "/app/data/hermes/volumes/shared/inbox",
+          "file_count": 0,
+          "size_bytes": 0,
+          "modified": 1780034868.0745711
+        },
+        "active": {
+          "path": "/app/data/hermes/volumes/shared/active",
+          "file_count": 0,
+          "size_bytes": 0,
+          "modified": 1780034868.0745711
+        },
+        "archive": {
+          "path": "/app/data/hermes/volumes/shared/archive",
+          "file_count": 0,
+          "size_bytes": 0,
+          "modified": 1780034868.0745711
+        },
+        "tmp": {
+          "path": "/app/data/hermes/volumes/shared/tmp",
+          "file_count": 0,
+          "size_bytes": 0,
+          "modified": 1780034868.0745711
+        },
+        "manifests": {
+          "path": "/app/data/hermes/volumes/shared/manifests",
+          "file_count": 0,
+          "size_bytes": 0,
+          "modified": 1780034868.0745711
+        },
+        "reports": {
+          "path": "/app/data/hermes/volumes/shared/reports",
+          "file_count": 0,
+          "size_bytes": 0,
+          "modified": 1780034868.0745711
+        }
+      },
+      "total_files": 0,
+      "total_size_bytes": 0,
+      "file_summary": {
+        "inbox": [],
+        "active": [],
+        "archive": [],
+        "tmp": [],
+        "manifests": [],
+        "reports": []
+      },
+      "policy_compliance": {
+        "has_manifest": true,
+        "folder_structure_valid": true,
+        "required_folders_present": [
+          "inbox",
+          "active",
+          "archive",
+          "tmp",
+          "manifests",
+          "reports"
+        ],
+        "issues": []
+      },
+      "manifest": {
+        "name": "shared",
+        "purpose": "\"Cross-project shared assets, common templates, organizational knowledge, and reusable materials\"",
+        "owner": "\"KOHD operations\"",
+        "read_only": "false",
+        "allowed_writers": "",
+        "retention_policy": "\"Keep all; organized by project. Annual review for archival.\"",
+        "inbox_path": "\"/app/data/hermes/volumes/shared/inbox\"",
+        "active_path": "\"/app/data/hermes/volumes/shared/active\"",
+        "archive_path": "\"/app/data/hermes/volumes/shared/archive\"",
+        "tmp_path": "\"/app/data/hermes/volumes/shared/tmp\"",
+        "manifests_path": "\"/app/data/hermes/volumes/shared/manifests\"",
+        "reports_path": "\"/app/data/hermes/volumes/shared/reports\"",
+        "notes": "\"Shared knowledge, common assets, organizational templates, and reference materials.\"",
+        "created": "2026-05-29",
+        "updated": "2026-05-29"
+      },
+      "health": "healthy"
+    }
+  },
+  "summary": {
+    "total_volumes": 3,
+    "total_files": 3,
+    "total_size_bytes": 47,
+    "inbox_items": 2,
+    "active_items": 1,
+    "archive_items": 0,
+    "new_files_detected": 0,
+    "volumes_healthy": 3,
+    "volumes_with_issues": 0
+  },
+  "issues": []
+}

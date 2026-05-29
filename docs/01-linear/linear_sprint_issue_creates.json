@@ -1,0 +1,55 @@
+{
+  "created": [
+    {
+      "project": "Aardvark",
+      "title": "AAS-ONB-001 Capture Operational Topology",
+      "stdout": "{\n  \"issueCreate\": {\n    \"success\": true,\n    \"issue\": {\n      \"id\": \"5fdda29b-cde3-4b09-b678-71574f66c144\",\n      \"identifier\": \"CD-284\",\n      \"title\": \"AAS-ONB-001 Capture Operational Topology\",\n      \"url\": \"https://linear.app/kohd/issue/CD-284/aas-onb-001-capture-operational-topology\"\n    }\n  }\n}"
+    },
+    {
+      "project": "Aardvark",
+      "title": "AAS-ONB-002 Platform Inventory Audit",
+      "stdout": "{\n  \"issueCreate\": {\n    \"success\": true,\n    \"issue\": {\n      \"id\": \"233b6fe7-c193-4ec0-9d3d-b48d63522782\",\n      \"identifier\": \"CD-285\",\n      \"title\": \"AAS-ONB-002 Platform Inventory Audit\",\n      \"url\": \"https://linear.app/kohd/issue/CD-285/aas-onb-002-platform-inventory-audit\"\n    }\n  }\n}"
+    },
+    {
+      "project": "Aardvark",
+      "title": "AAS-ONB-011 Define Entity Model and Job/Customer Schema",
+      "stdout": "{\n  \"issueCreate\": {\n    \"success\": true,\n    \"issue\": {\n      \"id\": \"426cbba4-49f9-4308-b9c4-6bd29a018bf9\",\n      \"identifier\": \"CD-286\",\n      \"title\": \"AAS-ONB-011 Define Entity Model and Job/Customer Schema\",\n      \"url\": \"https://linear.app/kohd/issue/CD-286/aas-onb-011-define-entity-model-and-jobcustomer-schema\"\n    }\n  }\n}"
+    },
+    {
+      "project": "Aardvark",
+      "title": "AAS-ONB-020 Configure Linear Intake & Governance Framework",
+      "stdout": "{\n  \"issueCreate\": {\n    \"success\": true,\n    \"issue\": {\n      \"id\": \"aab62718-a0d5-43a9-a378-290a77c7d886\",\n      \"identifier\": \"CD-287\",\n      \"title\": \"AAS-ONB-020 Configure Linear Intake & Governance Framework\",\n      \"url\": \"https://linear.app/kohd/issue/CD-287/aas-onb-020-configure-linear-intake-and-governance-framework\"\n    }\n  }\n}"
+    },
+    {
+      "project": "Aardvark",
+      "title": "AAS-ONB-010 Provision Slack Operational Structure",
+      "stdout": "{\n  \"issueCreate\": {\n    \"success\": true,\n    \"issue\": {\n      \"id\": \"b4e1dab6-a752-45d2-a0af-599a2b4ff0c3\",\n      \"identifier\": \"CD-288\",\n      \"title\": \"AAS-ONB-010 Provision Slack Operational Structure\",\n      \"url\": \"https://linear.app/kohd/issue/CD-288/aas-onb-010-provision-slack-operational-structure\"\n    }\n  }\n}"
+    },
+    {
+      "project": "EcoPUK",
+      "title": "ECP-001 Product Catalog & Inventory Management",
+      "stdout": "{\n  \"issueCreate\": {\n    \"success\": true,\n    \"issue\": {\n      \"id\": \"a74a55ae-b436-4854-93b5-c75b44c3f963\",\n      \"identifier\": \"CD-289\",\n      \"title\": \"ECP-001 Product Catalog & Inventory Management\",\n      \"url\": \"https://linear.app/kohd/issue/CD-289/ecp-001-product-catalog-and-inventory-management\"\n    }\n  }\n}"
+    },
+    {
+      "project": "EcoPUK",
+      "title": "ECP-002 Dynamic Pricing Engine",
+      "stdout": "{\n  \"issueCreate\": {\n    \"success\": true,\n    \"issue\": {\n      \"id\": \"c8abda3d-9f03-441b-b1d6-36d0fd45b46c\",\n      \"identifier\": \"CD-290\",\n      \"title\": \"ECP-002 Dynamic Pricing Engine\",\n      \"url\": \"https://linear.app/kohd/issue/CD-290/ecp-002-dynamic-pricing-engine\"\n    }\n  }\n}"
+    },
+    {
+      "project": "EcoPUK",
+      "title": "ECP-003 Quote Generation with Shipping Cost Integration",
+      "stdout": "{\n  \"issueCreate\": {\n    \"success\": true,\n    \"issue\": {\n      \"id\": \"2e214bbd-e515-49b8-a30b-a29c2d6ca5e8\",\n      \"identifier\": \"CD-291\",\n      \"title\": \"ECP-003 Quote Generation with Shipping Cost Integration\",\n      \"url\": \"https://linear.app/kohd/issue/CD-291/ecp-003-quote-generation-with-shipping-cost-integration\"\n    }\n  }\n}"
+    },
+    {
+      "project": "EcoPUK",
+      "title": "ECP-004 Customer Management & Segment Classification",
+      "stdout": "{\n  \"issueCreate\": {\n    \"success\": true,\n    \"issue\": {\n      \"id\": \"62068fb9-24cb-4922-a796-21a03d31fc65\",\n      \"identifier\": \"CD-292\",\n      \"title\": \"ECP-004 Customer Management & Segment Classification\",\n      \"url\": \"https://linear.app/kohd/issue/CD-292/ecp-004-customer-management-and-segment-classification\"\n    }\n  }\n}"
+    },
+    {
+      "project": "EcoPUK",
+      "title": "ECP-005 Order Capture & PO Management",
+      "stdout": "{\n  \"issueCreate\": {\n    \"success\": true,\n    \"issue\": {\n      \"id\": \"bb01d83a-ab2b-488b-9945-223ed6ad1ef3\",\n      \"identifier\": \"CD-293\",\n      \"title\": \"ECP-005 Order Capture & PO Management\",\n      \"url\": \"https://linear.app/kohd/issue/CD-293/ecp-005-order-capture-and-po-management\"\n    }\n  }\n}"
+    }
+  ],
+  "errors": []
+}

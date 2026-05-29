@@ -1,0 +1,80 @@
+{
+  "cxo-cco-commercial": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "board-priya-kapoor",
+    "skill_name": "cxo-cco-commercial",
+    "source_path": "/kohd-kai/active/cxo-cco-commercial.SKILL.md"
+  },
+  "cxo-ceo": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "board-eleanor-briggs",
+    "skill_name": "cxo-ceo",
+    "source_path": "/kohd-kai/active/cxo-ceo.SKILL.md"
+  },
+  "cxo-cfo": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "board-samuel-price",
+    "skill_name": "cxo-cfo",
+    "source_path": "/kohd-kai/active/cxo-cfo.SKILL.md"
+  },
+  "cxo-chro": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "board-hannah-clarke",
+    "skill_name": "cxo-chro",
+    "source_path": "/kohd-kai/active/cxo-chro.SKILL.md"
+  },
+  "cxo-cio": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "board-nikhil-shah",
+    "skill_name": "cxo-cio",
+    "source_path": "/kohd-kai/active/cxo-cio.SKILL.md"
+  },
+  "cxo-ciso": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "board-nikhil-shah",
+    "skill_name": "cxo-ciso",
+    "source_path": "/kohd-kai/active/cxo-ciso.SKILL.md"
+  },
+  "cxo-cmo": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "board-priya-kapoor",
+    "skill_name": "cxo-cmo",
+    "source_path": "/kohd-kai/active/cxo-cmo.SKILL.md"
+  },
+  "cxo-coo": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "board-marcus-bennett",
+    "skill_name": "cxo-coo",
+    "source_path": "/kohd-kai/active/cxo-coo.SKILL.md"
+  },
+  "cxo-cpo-product": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "board-neil-riley",
+    "skill_name": "cxo-cpo-product",
+    "source_path": "/kohd-kai/active/cxo-cpo-product.SKILL.md"
+  },
+  "cxo-cro": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "board-priya-kapoor",
+    "skill_name": "cxo-cro",
+    "source_path": "/kohd-kai/active/cxo-cro.SKILL.md"
+  },
+  "cxo-cso-strategy": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "board-neil-riley",
+    "skill_name": "cxo-cso-strategy",
+    "source_path": "/kohd-kai/active/cxo-cso-strategy.SKILL.md"
+  },
+  "cxo-cto": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "board-nikhil-shah",
+    "skill_name": "cxo-cto",
+    "source_path": "/kohd-kai/active/cxo-cto.SKILL.md"
+  },
+  "cxo-cxo-customer-experience": {
+    "assigned_at": "2026-05-29T11:34:05.859231+00:00",
+    "assigned_to": "board-neil-riley",
+    "skill_name": "cxo-cxo-customer-experience",
+    "source_path": "/kohd-kai/active/cxo-cxo-customer-experience.SKILL.md"
+  }
+}
