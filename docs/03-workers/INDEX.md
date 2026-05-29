@@ -23,3 +23,5 @@ Files:
 - [Mac mini image node setup checklist](mac_mini_setup_checklist.md)
 - [WebDAV folder and metadata schema](webdav_metadata_schema.md)
 - [Hermes image routing decision table](image_routing_decision_table.md)
+- [Windows image node shopping shortlist](windows_image_node_shopping_shortlist.md)
+- [Used vs new recommendation](used_vs_new_recommendation.md)
