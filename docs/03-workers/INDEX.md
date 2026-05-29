@@ -18,3 +18,4 @@ Files:
 - [Image generation workflow](image_generation_workflow.md)
 - [Autonomous image pipeline and WebDAV sink](image_pipeline_webdav.md)
 - [Image node options](image_node_options.md)
+- [Image node, routing, and WebDAV spec](image_node_routing_webdav_spec.md)
