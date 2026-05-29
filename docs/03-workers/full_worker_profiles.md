@@ -173,3 +173,16 @@ Note: headshots are not embedded here yet. Each profile includes a headshot brie
 - Secret storage: vault/kohd/ai-capability-automation-lead
 - Skills: model-routing, model-evaluation, multimodal-routing, prompt-automation, ai-cost-optimisation, workflow-automation, benchmark-design, provider-catalog-monitoring, capability-discovery, automation-ops
 - Headshot brief: professional business portrait, neutral studio background, smart attire matching role: ai-automation
+
+
+## Headshot standard
+- Photorealistic corporate portraits
+- Neutral studio background
+- Eye-level framing
+- Soft natural light
+- Business attire matched to role
+- No text, watermark, or props
+- Consistent style across all workers and advisory board members
+
+Headshot briefs file:
+- [Worker headshot briefs](worker_headshot_briefs.md)
