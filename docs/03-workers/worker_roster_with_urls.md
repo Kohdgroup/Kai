@@ -7,6 +7,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Role: ai-automation
 - Email: zoe.parker@kohd.io
 - Password reference: (store in a secret manager; do not commit the password)
+- Secret storage: (vault path or secret name goes here)
+- Secret storage status: pending assignment
 - Password status: pending secure storage
 - Registry key: ai-capability-automation-lead
 - URL: (none listed)
@@ -16,6 +18,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Role: engineering
 - Email: olivia.chen@kohd.io
 - Password reference: (store in a secret manager; do not commit the password)
+- Secret storage: (vault path or secret name goes here)
+- Secret storage status: pending assignment
 - Password status: pending secure storage
 - Registry key: backend-engineer
 - URL: (none listed)
@@ -25,6 +29,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Role: support
 - Email: noah.hughes@kohd.io
 - Password reference: (store in a secret manager; do not commit the password)
+- Secret storage: (vault path or secret name goes here)
+- Secret storage status: pending assignment
 - Password status: pending secure storage
 - Registry key: customer-support-lead
 - URL: (none listed)
@@ -34,6 +40,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Role: design
 - Email: maya.thompson@kohd.io
 - Password reference: (store in a secret manager; do not commit the password)
+- Secret storage: (vault path or secret name goes here)
+- Secret storage status: pending assignment
 - Password status: pending secure storage
 - Registry key: design-lead
 - URL: (none listed)
@@ -43,6 +51,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Role: devops
 - Email: alex.smith@kohd.io
 - Password reference: (store in a secret manager; do not commit the password)
+- Secret storage: (vault path or secret name goes here)
+- Secret storage status: pending assignment
 - Password status: pending secure storage
 - Registry key: devops-kubernetes-specialist
 - URL: (none listed)
@@ -52,6 +62,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Role: devops
 - Email: sophie.grant@kohd.io
 - Password reference: (store in a secret manager; do not commit the password)
+- Secret storage: (vault path or secret name goes here)
+- Secret storage status: pending assignment
 - Password status: pending secure storage
 - Registry key: devops-platform-engineer
 - URL: (none listed)
@@ -61,6 +73,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Role: engineering
 - Email: ethan.brooks@kohd.io
 - Password reference: (store in a secret manager; do not commit the password)
+- Secret storage: (vault path or secret name goes here)
+- Secret storage status: pending assignment
 - Password status: pending secure storage
 - Registry key: frontend-engineer
 - URL: (none listed)
@@ -70,6 +84,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Role: engineering
 - Email: ruby.patel@kohd.io
 - Password reference: (store in a secret manager; do not commit the password)
+- Secret storage: (vault path or secret name goes here)
+- Secret storage status: pending assignment
 - Password status: pending secure storage
 - Registry key: integration-engineer
 - URL: (none listed)
@@ -79,6 +95,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Role: marketing
 - Email: priya.kapoor@kohd.io
 - Password reference: (store in a secret manager; do not commit the password)
+- Secret storage: (vault path or secret name goes here)
+- Secret storage status: pending assignment
 - Password status: pending secure storage
 - Registry key: marketing-lead
 - URL: (none listed)
@@ -88,6 +106,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Role: commercial
 - Email: robert.singh@kohd.io
 - Password reference: (store in a secret manager; do not commit the password)
+- Secret storage: (vault path or secret name goes here)
+- Secret storage status: pending assignment
 - Password status: pending secure storage
 - Registry key: partnerships-sponsorship-manager
 - URL: (none listed)
@@ -97,6 +117,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Role: operations
 - Email: hannah.clarke@kohd.io
 - Password reference: (store in a secret manager; do not commit the password)
+- Secret storage: (vault path or secret name goes here)
+- Secret storage status: pending assignment
 - Password status: pending secure storage
 - Registry key: people-ops-coordinator
 - URL: (none listed)
@@ -106,6 +128,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Role: product
 - Email: daniel.foster@kohd.io
 - Password reference: (store in a secret manager; do not commit the password)
+- Secret storage: (vault path or secret name goes here)
+- Secret storage status: pending assignment
 - Password status: pending secure storage
 - Registry key: product-owner
 - URL: (none listed)
@@ -115,6 +139,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Role: qa
 - Email: james.hall@kohd.io
 - Password reference: (store in a secret manager; do not commit the password)
+- Secret storage: (vault path or secret name goes here)
+- Secret storage status: pending assignment
 - Password status: pending secure storage
 - Registry key: qa-lead
 - URL: (none listed)
@@ -124,6 +150,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Role: commercial
 - Email: clara.evans@kohd.io
 - Password reference: (store in a secret manager; do not commit the password)
+- Secret storage: (vault path or secret name goes here)
+- Secret storage status: pending assignment
 - Password status: pending secure storage
 - Registry key: revenue-operations-manager
 - URL: (none listed)
@@ -133,6 +161,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Role: failure
 - Email: grace.morgan@kohd.io
 - Password reference: (store in a secret manager; do not commit the password)
+- Secret storage: (vault path or secret name goes here)
+- Secret storage status: pending assignment
 - Password status: pending secure storage
 - Registry key: root-cause-analyst
 - URL: (none listed)
@@ -142,6 +172,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Role: scrum-master
 - Email: laura.bennett@kohd.io
 - Password reference: (store in a secret manager; do not commit the password)
+- Secret storage: (vault path or secret name goes here)
+- Secret storage status: pending assignment
 - Password status: pending secure storage
 - Registry key: scrum-master
 - URL: (none listed)
@@ -151,6 +183,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Role: marketing
 - Email: mia.carter@kohd.io
 - Password reference: (store in a secret manager; do not commit the password)
+- Secret storage: (vault path or secret name goes here)
+- Secret storage status: pending assignment
 - Password status: pending secure storage
 - Registry key: social-media-community-manager
 - URL: (none listed)
