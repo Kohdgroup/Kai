@@ -5,3 +5,4 @@
 - [Weekly change window schedule](weekly-change-window-schedule.md)
 - [Linear change request template](linear-change-request-template.md)
 - [Affected people comms rules](affected-people-comms-rules.md)
+- [Upcoming maintenance planned email template](upcoming-maintenance-planned-email-template.md)
