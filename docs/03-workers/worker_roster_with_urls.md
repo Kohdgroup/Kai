@@ -6,6 +6,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Title: AI Capability & Automation Lead
 - Role: ai-automation
 - Email: zoe.parker@kohd.io
+- Password reference: (store in a secret manager; do not commit the password)
+- Password status: pending secure storage
 - Registry key: ai-capability-automation-lead
 - URL: (none listed)
 
@@ -13,6 +15,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Title: Backend Engineer
 - Role: engineering
 - Email: olivia.chen@kohd.io
+- Password reference: (store in a secret manager; do not commit the password)
+- Password status: pending secure storage
 - Registry key: backend-engineer
 - URL: (none listed)
 
@@ -20,6 +24,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Title: Customer Support Lead
 - Role: support
 - Email: noah.hughes@kohd.io
+- Password reference: (store in a secret manager; do not commit the password)
+- Password status: pending secure storage
 - Registry key: customer-support-lead
 - URL: (none listed)
 
@@ -27,6 +33,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Title: Design Lead
 - Role: design
 - Email: maya.thompson@kohd.io
+- Password reference: (store in a secret manager; do not commit the password)
+- Password status: pending secure storage
 - Registry key: design-lead
 - URL: (none listed)
 
@@ -34,6 +42,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Title: DevOps Kubernetes Specialist
 - Role: devops
 - Email: alex.smith@kohd.io
+- Password reference: (store in a secret manager; do not commit the password)
+- Password status: pending secure storage
 - Registry key: devops-kubernetes-specialist
 - URL: (none listed)
 
@@ -41,6 +51,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Title: DevOps Platform Engineer
 - Role: devops
 - Email: sophie.grant@kohd.io
+- Password reference: (store in a secret manager; do not commit the password)
+- Password status: pending secure storage
 - Registry key: devops-platform-engineer
 - URL: (none listed)
 
@@ -48,6 +60,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Title: Frontend Engineer
 - Role: engineering
 - Email: ethan.brooks@kohd.io
+- Password reference: (store in a secret manager; do not commit the password)
+- Password status: pending secure storage
 - Registry key: frontend-engineer
 - URL: (none listed)
 
@@ -55,6 +69,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Title: Integration Engineer
 - Role: engineering
 - Email: ruby.patel@kohd.io
+- Password reference: (store in a secret manager; do not commit the password)
+- Password status: pending secure storage
 - Registry key: integration-engineer
 - URL: (none listed)
 
@@ -62,6 +78,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Title: Marketing Lead
 - Role: marketing
 - Email: priya.kapoor@kohd.io
+- Password reference: (store in a secret manager; do not commit the password)
+- Password status: pending secure storage
 - Registry key: marketing-lead
 - URL: (none listed)
 
@@ -69,6 +87,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Title: Partnerships & Sponsorship Manager
 - Role: commercial
 - Email: robert.singh@kohd.io
+- Password reference: (store in a secret manager; do not commit the password)
+- Password status: pending secure storage
 - Registry key: partnerships-sponsorship-manager
 - URL: (none listed)
 
@@ -76,6 +96,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Title: People Ops Coordinator
 - Role: operations
 - Email: hannah.clarke@kohd.io
+- Password reference: (store in a secret manager; do not commit the password)
+- Password status: pending secure storage
 - Registry key: people-ops-coordinator
 - URL: (none listed)
 
@@ -83,6 +105,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Title: Product Owner
 - Role: product
 - Email: daniel.foster@kohd.io
+- Password reference: (store in a secret manager; do not commit the password)
+- Password status: pending secure storage
 - Registry key: product-owner
 - URL: (none listed)
 
@@ -90,6 +114,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Title: QA Lead
 - Role: qa
 - Email: james.hall@kohd.io
+- Password reference: (store in a secret manager; do not commit the password)
+- Password status: pending secure storage
 - Registry key: qa-lead
 - URL: (none listed)
 
@@ -97,6 +123,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Title: Revenue Operations Manager
 - Role: commercial
 - Email: clara.evans@kohd.io
+- Password reference: (store in a secret manager; do not commit the password)
+- Password status: pending secure storage
 - Registry key: revenue-operations-manager
 - URL: (none listed)
 
@@ -104,6 +132,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Title: Root Cause Analyst
 - Role: failure
 - Email: grace.morgan@kohd.io
+- Password reference: (store in a secret manager; do not commit the password)
+- Password status: pending secure storage
 - Registry key: root-cause-analyst
 - URL: (none listed)
 
@@ -111,6 +141,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Title: Linear Autonomous Scrum Master
 - Role: scrum-master
 - Email: laura.bennett@kohd.io
+- Password reference: (store in a secret manager; do not commit the password)
+- Password status: pending secure storage
 - Registry key: scrum-master
 - URL: (none listed)
 
@@ -118,6 +150,8 @@ This file lists the current worker roster and any URL fields present in the regi
 - Title: Social Media & Community Manager
 - Role: marketing
 - Email: mia.carter@kohd.io
+- Password reference: (store in a secret manager; do not commit the password)
+- Password status: pending secure storage
 - Registry key: social-media-community-manager
 - URL: (none listed)
 
