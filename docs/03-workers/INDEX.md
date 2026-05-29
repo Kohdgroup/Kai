@@ -14,3 +14,4 @@ Files:
 - [Full worker profiles](full_worker_profiles.md)
 - [Worker headshot briefs](worker_headshot_briefs.md)
 - [Founder-friendly headshot style reference](founder_friendly_headshot_style_reference.md)
+- [Headshot cost analysis](headshot_cost_analysis.md)
