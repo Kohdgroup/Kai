@@ -19,3 +19,7 @@ Files:
 - [Autonomous image pipeline and WebDAV sink](image_pipeline_webdav.md)
 - [Image node options](image_node_options.md)
 - [Image node, routing, and WebDAV spec](image_node_routing_webdav_spec.md)
+- [Windows PC image node build checklist](windows_build_checklist.md)
+- [Mac mini image node setup checklist](mac_mini_setup_checklist.md)
+- [WebDAV folder and metadata schema](webdav_metadata_schema.md)
+- [Hermes image routing decision table](image_routing_decision_table.md)
