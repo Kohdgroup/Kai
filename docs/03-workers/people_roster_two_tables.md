@@ -1,35 +1,35 @@
 # People Roster
 
-One page, two tables.
+Two tables: CXO + Advisory, and Workers.
 
 ## Table 1: CXO + Advisory
-| Name | Email | Secret path | Role |
+| Name | Email | Role | Secret path |
 |---|---|---|---|
-| Eleanor Briggs |  | (pending) | advisory |
-| Hannah Clarke |  | (pending) | advisory |
-| Marcus Bennett |  | (pending) | advisory |
-| Neil Riley |  | (pending) | advisory |
-| Nikhil Shah |  | (pending) | advisory |
-| Priya Kapoor |  | (pending) | advisory |
-| Samuel Price |  | (pending) | advisory |
+| Eleanor Briggs | (missing) | advisory | (pending) |
+| Hannah Clarke | (missing) | advisory | (pending) |
+| Marcus Bennett | (missing) | advisory | (pending) |
+| Neil Riley | (missing) | advisory | (pending) |
+| Nikhil Shah | (missing) | advisory | (pending) |
+| Priya Kapoor | (missing) | advisory | (pending) |
+| Samuel Price | (missing) | advisory | (pending) |
 
 ## Table 2: Workers
-| Name | Email | Secret path | Role |
+| Name | Email | Role | Secret path |
 |---|---|---|---|
-| Alex Smith | alex.smith@kohd.io | (pending) | DevOps Kubernetes Specialist |
-| Clara Evans | clara.evans@kohd.io | (pending) | Revenue Operations Manager |
-| Daniel Foster | daniel.foster@kohd.io | (pending) | Product Owner |
-| Ethan Brooks | ethan.brooks@kohd.io | (pending) | Frontend Engineer |
-| Grace Morgan | grace.morgan@kohd.io | (pending) | Root Cause Analyst |
-| Hannah Clarke | hannah.clarke@kohd.io | (pending) | People Ops Coordinator |
-| James Hall | james.hall@kohd.io | (pending) | QA Lead |
-| Laura Bennett | laura.bennett@kohd.io | (pending) | Linear Autonomous Scrum Master |
-| Maya Thompson | maya.thompson@kohd.io | (pending) | Design Lead |
-| Mia Carter | mia.carter@kohd.io | (pending) | Social Media & Community Manager |
-| Noah Hughes | noah.hughes@kohd.io | (pending) | Customer Support Lead |
-| Olivia Chen | olivia.chen@kohd.io | (pending) | Backend Engineer |
-| Priya Kapoor | priya.kapoor@kohd.io | (pending) | Marketing Lead |
-| Robert Singh | robert.singh@kohd.io | (pending) | Partnerships & Sponsorship Manager |
-| Ruby Patel | ruby.patel@kohd.io | (pending) | Integration Engineer |
-| Sophie Grant | sophie.grant@kohd.io | (pending) | DevOps Platform Engineer |
-| Zoe Parker | zoe.parker@kohd.io | (pending) | AI Capability & Automation Lead |
+| Alex Smith | alex.smith@kohd.io | devops | (pending) |
+| Clara Evans | clara.evans@kohd.io | commercial | (pending) |
+| Daniel Foster | daniel.foster@kohd.io | product | (pending) |
+| Ethan Brooks | ethan.brooks@kohd.io | engineering | (pending) |
+| Grace Morgan | grace.morgan@kohd.io | failure | (pending) |
+| Hannah Clarke | hannah.clarke@kohd.io | operations | (pending) |
+| James Hall | james.hall@kohd.io | qa | (pending) |
+| Laura Bennett | laura.bennett@kohd.io | scrum-master | (pending) |
+| Maya Thompson | maya.thompson@kohd.io | design | (pending) |
+| Mia Carter | mia.carter@kohd.io | marketing | (pending) |
+| Noah Hughes | noah.hughes@kohd.io | support | (pending) |
+| Olivia Chen | olivia.chen@kohd.io | engineering | (pending) |
+| Priya Kapoor | priya.kapoor@kohd.io | marketing | (pending) |
+| Robert Singh | robert.singh@kohd.io | commercial | (pending) |
+| Ruby Patel | ruby.patel@kohd.io | engineering | (pending) |
+| Sophie Grant | sophie.grant@kohd.io | devops | (pending) |
+| Zoe Parker | zoe.parker@kohd.io | ai-automation | (pending) |
