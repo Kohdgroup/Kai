@@ -18,3 +18,5 @@ Start here by section:
 - `05-nas/INDEX.md`
 - `06-skills/INDEX.md`
 - `07-archives/`
+
+- `08-maintenance/README.md`
