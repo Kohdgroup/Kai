@@ -11,3 +11,4 @@ Files:
 - `advisory_board_compact.md`
 - `people_roster_compact.md`
 - `people_roster_two_tables.md`
+- [Full worker profiles](full_worker_profiles.md)
