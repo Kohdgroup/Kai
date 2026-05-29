@@ -8,3 +8,4 @@ Files:
 - `skill_assignments.json`
 - `board_skill_assignments.json`
 - `advisory_board.json`
+- `advisory_board_compact.md`
