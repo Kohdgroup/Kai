@@ -5,13 +5,13 @@ Two tables: CXO + Advisory, and Workers.
 ## Table 1: CXO + Advisory
 | Name | Email | Role | Secret path |
 |---|---|---|---|
-| Eleanor Briggs | (missing) | advisory | (pending) |
-| Hannah Clarke | (missing) | advisory | (pending) |
-| Marcus Bennett | (missing) | advisory | (pending) |
-| Neil Riley | (missing) | advisory | (pending) |
-| Nikhil Shah | (missing) | advisory | (pending) |
-| Priya Kapoor | (missing) | advisory | (pending) |
-| Samuel Price | (missing) | advisory | (pending) |
+| Eleanor Briggs | eleanor.briggs@kohd.io | advisory | (pending) |
+| Hannah Clarke | hannah.clarke@kohd.io | advisory | (pending) |
+| Marcus Bennett | marcus.bennett@kohd.io | advisory | (pending) |
+| Neil Riley | neil.riley@kohd.io | advisory | (pending) |
+| Nikhil Shah | nikhil.shah@kohd.io | advisory | (pending) |
+| Priya Kapoor | priya.kapoor@kohd.io | advisory | (pending) |
+| Samuel Price | samuel.price@kohd.io | advisory | (pending) |
 
 ## Table 2: Workers
 | Name | Email | Role | Secret path |
@@ -33,3 +33,4 @@ Two tables: CXO + Advisory, and Workers.
 | Ruby Patel | ruby.patel@kohd.io | engineering | (pending) |
 | Sophie Grant | sophie.grant@kohd.io | devops | (pending) |
 | Zoe Parker | zoe.parker@kohd.io | ai-automation | (pending) |
+Note: CXO entries now follow the same `firstname.lastname@kohd.io` naming convention as workers.
