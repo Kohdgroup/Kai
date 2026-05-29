@@ -26,3 +26,4 @@ Files:
 - [Windows image node shopping shortlist](windows_image_node_shopping_shortlist.md)
 - [Used vs new recommendation](used_vs_new_recommendation.md)
 - [Windows image node buy-order decision tree](windows_buy_order_decision_tree.md)
+- [Final Windows image node recommendation](final_windows_image_node_recommendation.md)
