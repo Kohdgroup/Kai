@@ -18,3 +18,7 @@ Maintenance expectations:
 - Review high-risk governance docs on a regular cadence.
 - Flag stale references during doc sync.
 - Prefer links to Linear issues/projects over duplicated narrative.
+
+## New artifacts
+- `stale-doc-detection-spec.md`
+- `doc-metadata-template.md`
