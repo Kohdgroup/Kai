@@ -1,4 +1,4 @@
-# People Roster: Workers + Advisory Board
+# People Roster: CXO + Advisory Board + Workers
 
 | Group | Name | Email | Secret path |
 |---|---|---|---|
