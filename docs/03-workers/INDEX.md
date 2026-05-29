@@ -10,3 +10,4 @@ Files:
 - `advisory_board.json`
 - `advisory_board_compact.md`
 - `people_roster_compact.md`
+- `people_roster_two_tables.md`
