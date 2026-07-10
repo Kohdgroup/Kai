@@ -1,9 +1,10 @@
 
-Profile: mai-architect
-Path:    /Users/neilriley/.hermes/profiles/mai-architect
+Profile: mai-matsuda
+Path:    /Users/neilriley/.hermes/profiles/mai-matsuda
 Model:   claude-haiku-4-5-20251001 (anthropic)
 Gateway: stopped
 Skills:  1
 .env:    exists
 SOUL.md: exists
+Alias:   mai-matsuda → hermes -p mai-matsuda  (/Users/neilriley/.local/bin/mai-matsuda)
 

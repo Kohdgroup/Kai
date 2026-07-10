@@ -1,0 +1,10 @@
+
+Profile: neil-riley
+Path:    /Users/neilriley/.hermes/profiles/neil-riley
+Model:   gpt-5.4-mini (openai-api)
+Gateway: stopped
+Skills:  72
+.env:    exists
+SOUL.md: exists
+Alias:   neil-riley → hermes -p neil-riley  (/Users/neilriley/.local/bin/neil-riley)
+

@@ -24,7 +24,7 @@ sync_profile() {
 sync_profile "natalie-brooks" "natalie-brooks"
 sync_profile "sarah-collins" "sarah-collins"
 sync_profile "emma-carter" "emma-carter"
-sync_profile "mai-architect" "mai-matsuda"
-sync_profile "neil-digital-twin" "neil-digital-twin"
+sync_profile "mai-matsuda" "mai-matsuda"
+sync_profile "neil-riley" "neil-riley"
 
 echo "Desktop OS profile records refreshed."
