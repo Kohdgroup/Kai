@@ -1,0 +1,10 @@
+
+Profile: sarah-collins
+Path:    /Users/neilriley/.hermes/profiles/sarah-collins
+Model:   qwen3:4b (custom)
+Gateway: stopped
+Skills:  72
+.env:    exists
+SOUL.md: exists
+Alias:   sarah-collins → hermes -p sarah-collins  (/Users/neilriley/.local/bin/sarah-collins)
+

@@ -1,0 +1,9 @@
+
+  Primary:   claude-haiku-4-5-20251001  (via anthropic)
+
+  Fallback chain (1 entry):
+    1. gpt-5.4-mini  (via openai-api)  [https://api.openai.com/v1]
+
+  Tried in order when the primary fails (rate-limit, 5xx, connection errors).
+  Docs: https://hermes-agent.nousresearch.com/docs/user-guide/features/fallback-providers
+

@@ -1,0 +1,10 @@
+
+Profile: natalie-brooks
+Path:    /Users/neilriley/.hermes/profiles/natalie-brooks
+Model:   qwen3:4b (custom)
+Gateway: stopped
+Skills:  72
+.env:    exists
+SOUL.md: exists
+Alias:   natalie-brooks → hermes -p natalie-brooks  (/Users/neilriley/.local/bin/natalie-brooks)
+

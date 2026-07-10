@@ -1,0 +1,10 @@
+
+Profile: emma-carter
+Path:    /Users/neilriley/.hermes/profiles/emma-carter
+Model:   claude-haiku-4-5-20251001 (anthropic)
+Gateway: stopped
+Skills:  72
+.env:    exists
+SOUL.md: exists
+Alias:   emma-carter → hermes -p emma-carter  (/Users/neilriley/.local/bin/emma-carter)
+
