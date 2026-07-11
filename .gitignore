@@ -50,3 +50,6 @@ Thumbs.db
 # Desktop OS certification evidence
 desktop-os/03-testing/results/*
 !desktop-os/03-testing/results/.gitkeep
+
+# Desktop OS disposable test sandboxes
+desktop-os/03-testing/.sandbox/

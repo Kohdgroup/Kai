@@ -187,6 +187,7 @@ def build_command(
         "--quiet",
         "--source",
         "tool",
+        "--cli",
         "--max-turns",
         str(arguments.max_turns),
     ]

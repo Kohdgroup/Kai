@@ -1,0 +1,23 @@
+This is an automated KOHD Desktop OS tool-execution test.
+
+You may only modify files inside the directory provided below.
+
+Create exactly one file named:
+
+hermes-created.txt
+
+Its complete contents must be exactly:
+
+KOHD_HERMES_FILE_WRITE_OK
+
+Do not create, edit, rename, or delete any other file.
+Do not modify Git configuration.
+Do not commit anything.
+Do not call external services.
+
+Target directory:
+{{SANDBOX_DIR}}
+
+When complete, return exactly:
+
+KOHD_HERMES_FILE_WRITE_COMPLETE

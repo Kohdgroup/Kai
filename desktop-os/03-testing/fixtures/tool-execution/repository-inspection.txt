@@ -1,0 +1,10 @@
+Use the terminal tool exactly once.
+
+Run this exact read-only command:
+
+cd "/Users/neilriley/kohd" && printf '{"branch":"%s","head":"%s","working_tree_clean":%s,"desktop_os_readme_exists":%s,"certification_runner_exists":%s}\n' "$(git branch --show-current)" "$(git rev-parse HEAD)" "$([ -z "$(git status --porcelain=v1)" ] && echo true || echo false)" "$([ -f desktop-os/README.md ] && echo true || echo false)" "$([ -f desktop-os/03-testing/run-certification.sh ] && echo true || echo false)"
+
+Return only the exact command output.
+
+Do not modify files or Git state.
+Do not run any other command.

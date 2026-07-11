@@ -15,6 +15,7 @@ mkdir -p "$TEST_RESULT_DIR"
 ENVIRONMENT_STATUS="SKIPPED"
 PLATFORM_STATUS="SKIPPED"
 RUNTIME_STATUS="SKIPPED"
+TOOLS_STATUS="SKIPPED"
 PROFILES_STATUS="SKIPPED"
 
 OVERALL_FAILED=0
@@ -68,6 +69,35 @@ fi
 echo "Runtime: $RUNTIME_STATUS"
 
 echo
+echo "### Tool execution"
+
+FILE_WRITE_STATUS="FAILED"
+REPOSITORY_INSPECTION_STATUS="FAILED"
+
+if TEST_RUN_ID="$TEST_RUN_ID" \
+   TEST_RESULT_DIR="$TEST_RESULT_DIR" \
+   "$SCRIPT_DIR/tool-execution/test-file-write.sh"; then
+    FILE_WRITE_STATUS="PASSED"
+fi
+
+if TEST_RUN_ID="$TEST_RUN_ID" \
+   "$SCRIPT_DIR/tool-execution/test-repository-inspection.py"; then
+    REPOSITORY_INSPECTION_STATUS="PASSED"
+fi
+
+if [[ "$FILE_WRITE_STATUS" == "PASSED" ]] &&
+   [[ "$REPOSITORY_INSPECTION_STATUS" == "PASSED" ]]; then
+    TOOLS_STATUS="PASSED"
+else
+    TOOLS_STATUS="FAILED"
+    OVERALL_FAILED=1
+fi
+
+echo "File write:            $FILE_WRITE_STATUS"
+echo "Repository inspection: $REPOSITORY_INSPECTION_STATUS"
+echo "Tool execution:        $TOOLS_STATUS"
+
+echo
 echo "### Profiles"
 
 if [[ ! -d "$PROFILE_ROOT" ]]; then
@@ -99,6 +129,7 @@ cat > "$SUMMARY_FILE" <<JSON
   "environment": "$ENVIRONMENT_STATUS",
   "platform": "$PLATFORM_STATUS",
   "runtime": "$RUNTIME_STATUS",
+  "tool_execution": "$TOOLS_STATUS",
   "profiles": "$PROFILES_STATUS",
   "outcome": "$([[ "$OVERALL_FAILED" -eq 0 ]] && echo PASSED || echo FAILED)"
 }
@@ -109,6 +140,7 @@ echo "Certification summary"
 echo "Environment: $ENVIRONMENT_STATUS"
 echo "Platform:    $PLATFORM_STATUS"
 echo "Runtime:     $RUNTIME_STATUS"
+echo "Tools:       $TOOLS_STATUS"
 echo "Profiles:    $PROFILES_STATUS"
 echo "Outcome:     $([[ "$OVERALL_FAILED" -eq 0 ]] && echo PASSED || echo FAILED)"
 echo "Summary:     $SUMMARY_FILE"

@@ -61,3 +61,25 @@ write_json_result(){
   printf '\nResult: %s\nScore: %s%%\nReport: %s\n' "$outcome" "$score" "$target"
 }
 finish_certification(){ write_json_result "$1" "$2" "${3:-100}"; local score; score="$(calculate_score)"; [[ $TEST_FAILED -eq 0 && $score -ge ${3:-100} ]]; }
+
+assert_value_equals() {
+    local test_id="$1"
+    local actual="$2"
+    local expected="$3"
+    local description="$4"
+    local weight="${5:-1}"
+
+    if [[ "$actual" == "$expected" ]]; then
+        pass \
+            "$test_id" \
+            "$weight" \
+            "$description" \
+            "expected=$expected actual=$actual"
+    else
+        fail \
+            "$test_id" \
+            "$weight" \
+            "$description" \
+            "expected=$expected actual=$actual"
+    fi
+}
