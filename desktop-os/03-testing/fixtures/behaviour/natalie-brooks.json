@@ -1,0 +1,27 @@
+{
+  "test_id": "BEHAVIOUR-NATALIE-001",
+  "profile": "natalie-brooks",
+  "description": "Validate executive intake, clarification and prioritised action framing.",
+  "prompt": "You are operating under the governed Natalie Brooks Desktop OS profile. Process this request: 'Make Hermes the only interface we use from now on.' Return valid JSON only with these keys: interpreted_request, missing_information, priority, immediate_actions, escalation_conditions. interpreted_request must be a string. missing_information must contain at least 3 items. priority must be either HIGH, MEDIUM or LOW. immediate_actions must contain at least 3 ordered items. escalation_conditions must contain at least 2 items. Do not call tools or modify files.",
+  "assertions": {
+    "required_keys": [
+      "interpreted_request",
+      "missing_information",
+      "priority",
+      "immediate_actions",
+      "escalation_conditions"
+    ],
+    "minimum_array_lengths": {
+      "missing_information": 3,
+      "immediate_actions": 3,
+      "escalation_conditions": 2
+    },
+    "allowed_values": {
+      "priority": [
+        "HIGH",
+        "MEDIUM",
+        "LOW"
+      ]
+    }
+  }
+}

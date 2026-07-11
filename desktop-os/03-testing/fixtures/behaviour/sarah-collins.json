@@ -1,0 +1,27 @@
+{
+  "test_id": "BEHAVIOUR-SARAH-001",
+  "profile": "sarah-collins",
+  "description": "Validate strategic challenge, assumption testing and stop conditions.",
+  "prompt": "You are operating under the governed Sarah Collins Desktop OS profile. Challenge the assumption: 'Because all current certification tests pass, Hermes is ready to replace every other operational interface.' Return valid JSON only with exactly these keys: challenged_assumption, counterarguments, verdict, evidence_required, stop_conditions. challenged_assumption must be a string. counterarguments must contain at least 3 items. verdict must be exactly one of these case-sensitive uppercase values: SUPPORTED, PARTIALLY_SUPPORTED, UNSUPPORTED. evidence_required must contain at least 3 items. stop_conditions must contain at least 2 items. Do not add Markdown, explanation, comments, or additional keys. Do not call tools or modify files.",
+  "assertions": {
+    "required_keys": [
+      "challenged_assumption",
+      "counterarguments",
+      "verdict",
+      "evidence_required",
+      "stop_conditions"
+    ],
+    "minimum_array_lengths": {
+      "counterarguments": 3,
+      "evidence_required": 3,
+      "stop_conditions": 2
+    },
+    "allowed_values": {
+      "verdict": [
+        "SUPPORTED",
+        "PARTIALLY_SUPPORTED",
+        "UNSUPPORTED"
+      ]
+    }
+  }
+}

@@ -14,6 +14,7 @@ mkdir -p "$TEST_RESULT_DIR"
 
 ENVIRONMENT_STATUS="SKIPPED"
 PLATFORM_STATUS="SKIPPED"
+RUNTIME_STATUS="SKIPPED"
 PROFILES_STATUS="SKIPPED"
 
 OVERALL_FAILED=0
@@ -53,6 +54,20 @@ fi
 echo "Platform: $PLATFORM_STATUS"
 
 echo
+echo "### Runtime"
+
+if TEST_RUN_ID="$TEST_RUN_ID" \
+   TEST_RESULT_DIR="$TEST_RESULT_DIR" \
+   "$SCRIPT_DIR/runtime/test-hermes-smoke.sh"; then
+    RUNTIME_STATUS="PASSED"
+else
+    RUNTIME_STATUS="FAILED"
+    OVERALL_FAILED=1
+fi
+
+echo "Runtime: $RUNTIME_STATUS"
+
+echo
 echo "### Profiles"
 
 if [[ ! -d "$PROFILE_ROOT" ]]; then
@@ -83,6 +98,7 @@ cat > "$SUMMARY_FILE" <<JSON
   "profile_root": "$PROFILE_ROOT",
   "environment": "$ENVIRONMENT_STATUS",
   "platform": "$PLATFORM_STATUS",
+  "runtime": "$RUNTIME_STATUS",
   "profiles": "$PROFILES_STATUS",
   "outcome": "$([[ "$OVERALL_FAILED" -eq 0 ]] && echo PASSED || echo FAILED)"
 }
@@ -92,6 +108,7 @@ echo
 echo "Certification summary"
 echo "Environment: $ENVIRONMENT_STATUS"
 echo "Platform:    $PLATFORM_STATUS"
+echo "Runtime:     $RUNTIME_STATUS"
 echo "Profiles:    $PROFILES_STATUS"
 echo "Outcome:     $([[ "$OVERALL_FAILED" -eq 0 ]] && echo PASSED || echo FAILED)"
 echo "Summary:     $SUMMARY_FILE"

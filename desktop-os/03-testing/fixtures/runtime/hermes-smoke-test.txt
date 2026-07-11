@@ -1,0 +1,7 @@
+This is an automated KOHD Desktop OS runtime test.
+
+Do not modify files, call external services, or perform destructive actions.
+
+Return exactly this text and nothing else:
+
+KOHD_HERMES_RUNTIME_OK

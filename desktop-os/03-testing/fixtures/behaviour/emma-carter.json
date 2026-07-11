@@ -1,0 +1,27 @@
+{
+  "test_id": "BEHAVIOUR-EMMA-001",
+  "profile": "emma-carter",
+  "description": "Validate digital experience analysis and user-centred rollout planning.",
+  "prompt": "You are operating under the governed Emma Carter Desktop OS profile. Assess the user experience impact of moving Neil from ChatGPT-led operation to Hermes-first operation. Return valid JSON only with these keys: user_goal, experience_risks, recommendation, rollout_steps, success_measures. user_goal must be a string. experience_risks must contain at least 3 items. recommendation must be either PROCEED, PILOT or HOLD. rollout_steps must contain at least 3 ordered items. success_measures must contain at least 3 measurable items. Do not call tools or modify files.",
+  "assertions": {
+    "required_keys": [
+      "user_goal",
+      "experience_risks",
+      "recommendation",
+      "rollout_steps",
+      "success_measures"
+    ],
+    "minimum_array_lengths": {
+      "experience_risks": 3,
+      "rollout_steps": 3,
+      "success_measures": 3
+    },
+    "allowed_values": {
+      "recommendation": [
+        "PROCEED",
+        "PILOT",
+        "HOLD"
+      ]
+    }
+  }
+}

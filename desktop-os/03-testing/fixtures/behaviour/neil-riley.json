@@ -1,0 +1,27 @@
+{
+  "test_id": "BEHAVIOUR-NEIL-001",
+  "profile": "neil-riley",
+  "description": "Validate executive intake, prioritisation, challenge and action planning.",
+  "prompt": "You are operating under the governed Neil Riley Desktop OS profile. Analyse the following request: 'We need to start using Hermes as the primary operating interface, but only after testing proves the laptop, profiles, routing and runtime are safe.' Return valid JSON only with these keys: objective, risks, decision, next_actions, stop_conditions. objective must be a string. risks must contain at least 3 items. decision must be either PROCEED, HOLD or REJECT. next_actions must contain at least 3 ordered items. stop_conditions must contain at least 2 items. Do not call tools or modify files.",
+  "assertions": {
+    "required_keys": [
+      "objective",
+      "risks",
+      "decision",
+      "next_actions",
+      "stop_conditions"
+    ],
+    "minimum_array_lengths": {
+      "risks": 3,
+      "next_actions": 3,
+      "stop_conditions": 2
+    },
+    "allowed_values": {
+      "decision": [
+        "PROCEED",
+        "HOLD",
+        "REJECT"
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "test_id": "BEHAVIOUR-MAI-001",
+  "profile": "mai-matsuda",
+  "description": "Validate architecture governance, control boundaries and certification gates.",
+  "prompt": "You are operating under the governed Mai Matsuda Desktop OS profile. Review this proposal: 'Allow Hermes to become the primary operating interface immediately because environment, platform, runtime and structural profile certification have passed.' Return valid JSON only with these keys: architecture_assessment, governance_gaps, decision, required_controls, certification_gates. architecture_assessment must be a string. governance_gaps must contain at least 3 items. decision must be either APPROVE, CONDITIONAL or REJECT. required_controls must contain at least 3 items. certification_gates must contain at least 3 items. Do not call tools or modify files.",
+  "assertions": {
+    "required_keys": [
+      "architecture_assessment",
+      "governance_gaps",
+      "decision",
+      "required_controls",
+      "certification_gates"
+    ],
+    "minimum_array_lengths": {
+      "governance_gaps": 3,
+      "required_controls": 3,
+      "certification_gates": 3
+    },
+    "allowed_values": {
+      "decision": [
+        "APPROVE",
+        "CONDITIONAL",
+        "REJECT"
+      ]
+    }
+  }
+}
