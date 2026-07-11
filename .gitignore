@@ -46,3 +46,7 @@ node_modules/
 # GitHub / OS
 Thumbs.db
 00-workbench/backups/
+
+# Desktop OS certification evidence
+desktop-os/03-testing/results/*
+!desktop-os/03-testing/results/.gitkeep
